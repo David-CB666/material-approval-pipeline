@@ -1,7 +1,8 @@
 # 工程材料報批文件包 · 全流程管線 v2.9
 
----
 <div align="center">
+
+![Material Approval Pipeline](assets/workflow-overview.jpg)
 
 **Full pipeline for engineering material submittal document packages**
 
