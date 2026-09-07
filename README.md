@@ -66,11 +66,14 @@
 - ✅ 雙編碼對應（`--code-map`：內部編號 ↔ BQ 編號）
 
 ### 🏷️ 414 條品牌推薦引擎
-從 9 個實戰項目累積嘅品牌數據庫：
+從 9 個實戰項目累積嘅品牌數據庫（非公開）：
 - 4 級匹配：精確匹配 → 分類關鍵詞 → 同類替代 → 通用建議
 - 雙語品牌支援（耐克森/Nexans、康普/Commscope 等）
 - Case-insensitive + 拼寫變體歸一化（`CommScope`/`Comscope`、`MK`/`Mk`/`mk`）
 - 9 大分類：電箱/線纜/燈具/開關插座/水管潔具/門鎖五金/建築材料/消防/弱電
+
+> 🔒 **品牌數據庫為付費/授權內容**，不在此公開 repo 中。
+> 如有商業使用或學術研究需求，請郵件聯絡商談授權：**mike.david.cb666@gmail.com**
 
 ### 📦 一鍵加料（add_materials.py）
 pre-flight 檢查 → 設值 → 出 PDF → append 產品資料 → sync 總表 → sync 美化版。
@@ -90,8 +93,10 @@ pre-flight 檢查 → 設值 → 出 PDF → append 產品資料 → sync 總表
 macau-material-approval/
 ├── README.md                          # 本文件（GitHub 預覽頁）
 ├── DOCUMENTATION.md                   # 完整技能文檔（v2.9 / 516 行）
+├── assets/
+│   └── workflow-overview.jpg          # 管線流程圖
 ├── references/
-│   ├── brand_db.json                  # 414 條品牌數據庫
+│   ├── brand_db.json 🔒               # 414 條品牌數據庫（非公開，需郵件授權）
 │   └── brand_examples.md              # 品牌推薦使用範例
 └── scripts/
     ├── gen_approval_forms.py          # 生成報批表（win32com Copy）

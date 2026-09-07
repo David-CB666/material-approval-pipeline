@@ -25,3 +25,6 @@ Thumbs.db
 *.png
 *.jpg
 
+
+# Private data - available upon request
+references/brand_db.json

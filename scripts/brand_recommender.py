@@ -1,7 +1,10 @@
 """
 brand_recommender.py
-澳門電機工程品牌推薦引擎
-基於162條材料審批黃金清單
+工程材料品牌推薦引擎
+基於 414 條材料審批數據（9 個實戰項目提煉）
+
+注意：品牌數據庫 (brand_db.json) 為非公開授權內容，
+不在此公開 repo 中。如需使用，請郵件聯絡商談授權。
 """
 
 import json
@@ -17,6 +20,12 @@ class BrandRecommender:
 
     def __init__(self, db_path: str | None = None):
         path = Path(db_path) if db_path else DB_PATH
+        if not path.exists():
+            raise FileNotFoundError(
+                f"品牌數據庫不存在：{path}\n"
+                "brand_db.json 為非公開授權內容，不在此公開 repo 中。\n"
+                "如需使用，請郵件聯絡 mike.david.cb666@gmail.com 商談授權。"
+            )
         with open(path, "r", encoding="utf-8") as f:
             self.db = json.load(f)
         self._build_index()
