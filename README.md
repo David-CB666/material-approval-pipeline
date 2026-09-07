@@ -1,5 +1,18 @@
 # 工程材料報批文件包 · 全流程管線 v2.9
 
+---
+<div align="center">
+
+**Full pipeline for engineering material submittal document packages**
+
+5-step iron rule · 414-brand recommendation engine · BQ page merge · 9 Python scripts
+
+[快速開始](#快速開始) · [文件結構](#文件結構) · [版本演進](#版本演進)
+
+</div>
+
+---
+
 > 從總表 + Excel 範本 + BQ PDF → 一套可以直接遞交嘅材料審批文件包。9 個實戰項目提煉，414 條品牌數據，5 步鐵律。
 
 ## 解決什麼問題
@@ -75,7 +88,7 @@ pre-flight 檢查 → 設值 → 出 PDF → append 產品資料 → sync 總表
 ```
 macau-material-approval/
 ├── README.md                          # 本文件（GitHub 預覽頁）
-├── SKILL.md                           # 完整技能文檔（v2.9 / 516 行）
+├── DOCUMENTATION.md                   # 完整技能文檔（v2.9 / 516 行）
 ├── references/
 │   ├── brand_db.json                  # 414 條品牌數據庫
 │   └── brand_examples.md              # 品牌推薦使用範例
@@ -102,7 +115,7 @@ macau-material-approval/
 ## 快速開始
 
 1. 準備：總表 Excel + 報批表範本 + BQ PDF + 產品資料文件夾
-2. 跟 [SKILL.md](SKILL.md) 嘅 5 步鐵律執行
+2. 跟 [DOCUMENTATION.md](DOCUMENTATION.md) 嘅 5 步鐵律執行
 3. Step 1-2：分析材料清單並徵詢用戶確認
 4. Step 4：用 `gen_approval_forms.py` 生成總表 + 分項報批表
 5. Step 5：用戶確認後，`export_forms_pdf.py` 導出 PDF → `merge_bq.py` 合併 BQ 頁
@@ -135,4 +148,6 @@ macau-material-approval/
 
 ---
 
-*屬於 [Engineering AI Skills](https://github.com/David-CB666/engineering-ai-skills) 技能集合*
+## License
+
+MIT License — feel free to use, modify, and share.
