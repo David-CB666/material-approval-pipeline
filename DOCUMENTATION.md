@@ -1,5 +1,5 @@
 ﻿---
-name: macau-material-approval
+name: material-approval-pipeline
 triggers: ["材料報批", "材料審批", "材料審批表", "材料報批表", "工程材料審批文件", "材料審批總表", "BQ合併", "報批表加BQ頁", "型號提取", "Material Submittal", "材料報批包", "品牌推薦", "材料品牌"]
 description: 工程「材料報批文件包」全流程製作管線（v2.9）。觸發詞見上。當任務係為工程（政府 / 私人 / 學校 / 酒店）投標產出一套完整材料審批包（總表→分項報批表→材料PDF含BQ頁→型號列→品牌填寫）時用。本技能係材料報批嘅唯一權威來源，已內化：5步鐵律（含用戶確認關卡）、引擎選擇決策樹、編號規則速查、分批提交+回復雙文件夾工作流、物料替換（同等物料）流程、BQ頁合併（merge_bq.py，支援自動+圖像型+跨頁+產品資料+多BQ分隔符+點號BQ+修訂尾綴+AR/AG/EG/EL/ELV/FS/AC/3P/M多前綴）、多專業前綴（AC/AR/AG/EG/EL/ELV/FS/M）同BQ章節(A/B/C/D/E)對應、雙承建商（總包+分判）報批、品牌推薦引擎（實戰補充後 414 條）。Excel 生成細節可參考 xlsx-template-batch-fill。
 version: 2.9.0

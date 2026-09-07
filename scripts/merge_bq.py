@@ -1,6 +1,6 @@
 ﻿# -*- coding: utf-8 -*-
 """
-merge_bq.py — 統一 BQ 頁合併工具（macau-material-approval v2.0）
+merge_bq.py — 統一 BQ 頁合併工具（material-approval-pipeline v2.0）
 ═══════════════════════════════════════════════════════════════════════
 將工程標書 BQ 頁**正確插入**每份材料報批 PDF。
 
