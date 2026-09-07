@@ -1,4 +1,4 @@
-"""
+﻿"""
 brand_recommender.py
 工程材料品牌推薦引擎
 基於 414 條材料審批數據（9 個實戰項目提煉）
@@ -24,7 +24,7 @@ class BrandRecommender:
             raise FileNotFoundError(
                 f"品牌數據庫不存在：{path}\n"
                 "brand_db.json 為非公開授權內容，不在此公開 repo 中。\n"
-                "如需使用，請郵件聯絡 mike.david.cb666@gmail.com 商談授權。"
+                "如需使用，請郵件聯絡 david_1999cn@hotmail.com 商談授權。"
             )
         with open(path, "r", encoding="utf-8") as f:
             self.db = json.load(f)
