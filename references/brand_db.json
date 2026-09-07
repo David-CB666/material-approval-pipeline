@@ -1,0 +1,3854 @@
+﻿{
+  "version": "2.9.0",
+  "last_updated": "2026-08-06",
+  "source": "材料審批知識庫_匯總.md",
+  "note": "162條標書未指定品牌記錄，來源於9個Excel文件共464條原始記錄去重後精選 | 2026-08-06 補入某政府項目2020實戰品牌 +19條 | 2026-08-06 補入某教育局項目2021-44實戰品牌 +9條 (BOSCH/CommScope/IFCS/Prysmian/佛山照明/AMP/AUSTIN-HUGHES/Panasonic規格) | 2026-08-06 補入某某政府部門項目2024實戰品牌 +1條 (IKEA/宜家傢俬；其餘~30品牌已全覆蓋)",
+  "global_alternatives": {
+    "label": "通用备选品牌（标书无指定时）",
+    "premium": [
+      "Legrand",
+      "Schneider Electric",
+      "ABB",
+      "Siemens",
+      "Philips",
+      "TOTO",
+      "COTTO"
+    ],
+    "mid_range": [
+      "Panasonic",
+      "Mitsubishi Electric",
+      "Chint",
+      "正泰",
+      "Daikin",
+      "Hitachi"
+    ],
+    "economy": [
+      "正泰",
+      "德力西",
+      "人民電器",
+      "皇冠",
+      "聯塑"
+    ]
+  },
+  "categories": {
+    "EL_electrical": {
+      "label": "強電/電氣",
+      "count": 106,
+      "items": [
+        {
+          "tender_spec": "100x100mm 線槽",
+          "brands": [
+            "ShunCheong"
+          ],
+          "model": "詳見附件",
+          "bq": "D2.4.1",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "10A開關掣",
+          "brands": [
+            "飛利浦"
+          ],
+          "model": "—",
+          "bq": "J4.3-5",
+          "source": "副本某學校-材料審批表-帶品牌2.xls"
+        },
+        {
+          "tender_spec": "10A開關掣",
+          "brands": [
+            "施耐德"
+          ],
+          "model": "—",
+          "bq": "J4.3-5",
+          "source": "某學校-材料審批表-r1.xls"
+        },
+        {
+          "tender_spec": "13A 插座",
+          "brands": [
+            "施耐德"
+          ],
+          "model": "豐尚系列",
+          "bq": "—",
+          "source": "某學校_材料匯總表_20260609(1).xlsx"
+        },
+        {
+          "tender_spec": "13A單位開關機指示燈插座",
+          "brands": [
+            "施耐德"
+          ],
+          "model": "—",
+          "bq": "J.3.1",
+          "source": "副本某學校-材料審批表-帶品牌2.xls"
+        },
+        {
+          "tender_spec": "13A插座",
+          "brands": [
+            "MK"
+          ],
+          "model": "MK",
+          "bq": "D1.5.3",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "13A菲士蘇",
+          "brands": [
+            "MK"
+          ],
+          "model": "MK",
+          "bq": "D1.4.15",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "13A防水插座",
+          "brands": [
+            "MK"
+          ],
+          "model": "MK",
+          "bq": "D1.5.4",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "20A熱水爐供電點",
+          "brands": [
+            "施耐德"
+          ],
+          "model": "—",
+          "bq": "J.3.2",
+          "source": "副本某學校-材料審批表-帶品牌2.xls"
+        },
+        {
+          "tender_spec": "24V電源供電箱連電池",
+          "brands": [
+            "HENRY"
+          ],
+          "model": "詳見附件",
+          "bq": "F23",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "2P/20A防水隔離開關",
+          "brands": [
+            "MK"
+          ],
+          "model": "MK",
+          "bq": "D1.4.9",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "4P/100A防水隔離開關箱",
+          "brands": [
+            "MK"
+          ],
+          "model": "MK",
+          "bq": "D1.4.14",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "4P/20A防水隔離開關",
+          "brands": [
+            "MK"
+          ],
+          "model": "MK",
+          "bq": "D1.4.10",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "4P/32A防水隔離開關",
+          "brands": [
+            "MK"
+          ],
+          "model": "MK",
+          "bq": "D1.4.11",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "4P/45A防水隔離開關",
+          "brands": [
+            "MK"
+          ],
+          "model": "MK",
+          "bq": "D1.4.12",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "4P/63A防水隔離開關箱",
+          "brands": [
+            "MK"
+          ],
+          "model": "MK",
+          "bq": "D1.4.13",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "G.I.喉管（符合BS1387中級）",
+          "brands": [
+            "華捷"
+          ],
+          "model": "詳見附件",
+          "bq": "F6, F8",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "L1",
+          "brands": [
+            "CDN西頓照明"
+          ],
+          "model": "詳見附件",
+          "bq": "D1.6.3",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "L10",
+          "brands": [
+            "CDN西頓照明"
+          ],
+          "model": "詳見附件",
+          "bq": "D1.6.12",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "L11",
+          "brands": [
+            "CDN西頓照明"
+          ],
+          "model": "詳見附件",
+          "bq": "D1.6.13",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "L12",
+          "brands": [
+            "CDN西頓照明"
+          ],
+          "model": "詳見附件",
+          "bq": "D1.6.14",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "L13 凹燈箱",
+          "brands": [
+            "CDN西頓照明"
+          ],
+          "model": "詳見附件",
+          "bq": "D1.6.15",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "L13A 凸燈箱",
+          "brands": [
+            "CDN西頓照明"
+          ],
+          "model": "詳見附件",
+          "bq": "D1.6.16",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "L14 LED平板會議燈",
+          "brands": [
+            "CDN西頓照明"
+          ],
+          "model": "詳見附件",
+          "bq": "D1.6.18a",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "L15 電子調焦聚光燈",
+          "brands": [
+            "CDN西頓照明"
+          ],
+          "model": "詳見附件",
+          "bq": "D1.6.18b",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "L2",
+          "brands": [
+            "CDN西頓照明"
+          ],
+          "model": "詳見附件",
+          "bq": "D1.6.4",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "L3",
+          "brands": [
+            "CDN西頓照明"
+          ],
+          "model": "詳見附件",
+          "bq": "D1.6.5",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "L4",
+          "brands": [
+            "CDN西頓照明"
+          ],
+          "model": "詳見附件",
+          "bq": "D1.6.6",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "L5",
+          "brands": [
+            "CDN西頓照明"
+          ],
+          "model": "詳見附件",
+          "bq": "D1.6.7",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "L6",
+          "brands": [
+            "CDN西頓照明"
+          ],
+          "model": "詳見附件",
+          "bq": "D1.6.8",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "L6K",
+          "brands": [
+            "CDN西頓照明"
+          ],
+          "model": "詳見附件",
+          "bq": "D1.6.18d",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "L7",
+          "brands": [
+            "CDN西頓照明"
+          ],
+          "model": "詳見附件",
+          "bq": "D1.6.9",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "L8",
+          "brands": [
+            "CDN西頓照明"
+          ],
+          "model": "詳見附件",
+          "bq": "D1.6.10",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "L9",
+          "brands": [
+            "CDN西頓照明"
+          ],
+          "model": "詳見附件",
+          "bq": "D1.6.11",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "PVC喉管",
+          "brands": [
+            "聯塑"
+          ],
+          "model": "—",
+          "bq": "6.1.1、6.2.1、6.2.2、6.2.3、6.4.1、6.4.2",
+          "source": "MAT_AR-00X-XX材料報批格式.xls"
+        },
+        {
+          "tender_spec": "PVC電燈喉管(暗裝)",
+          "brands": [
+            "Crown"
+          ],
+          "model": "—",
+          "bq": "E.1.2.3.1等多個",
+          "source": "某政府部門-材料審批表-20240806-01.xlsx"
+        },
+        {
+          "tender_spec": "PVC電燈線槽(明裝)",
+          "brands": [
+            "Trust"
+          ],
+          "model": "—",
+          "bq": "E.1.2.3.1等多個",
+          "source": "某政府部門-材料審批表-20240806-01.xlsx"
+        },
+        {
+          "tender_spec": "Q.A-1配電箱",
+          "brands": [
+            "Schneider"
+          ],
+          "model": "Prisma E",
+          "bq": "D1.1.3",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "Q.A-2配電箱",
+          "brands": [
+            "Schneider"
+          ],
+          "model": "Prisma E",
+          "bq": "D1.1.4",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "Q.A-3配電箱",
+          "brands": [
+            "Schneider"
+          ],
+          "model": "Prisma E",
+          "bq": "D1.1.5",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "Q.AC1配電箱",
+          "brands": [
+            "Schneider"
+          ],
+          "model": "Prisma E",
+          "bq": "D1.1.17",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "Q.AC2配電箱",
+          "brands": [
+            "Schneider"
+          ],
+          "model": "Prisma E",
+          "bq": "D1.1.18",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "Q.C1B電箱元配件",
+          "brands": [
+            "Schneider"
+          ],
+          "model": "Schneider",
+          "bq": "D1.1.19",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "Q.G1A配電箱",
+          "brands": [
+            "Schneider"
+          ],
+          "model": "Prisma E",
+          "bq": "D1.1.1",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "Q.G1B配電箱",
+          "brands": [
+            "Schneider"
+          ],
+          "model": "Prisma E",
+          "bq": "D1.1.2",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "Q.Office配電箱",
+          "brands": [
+            "Schneider"
+          ],
+          "model": "Prisma E",
+          "bq": "D1.1.6",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "Q.R-A配電箱",
+          "brands": [
+            "Schneider"
+          ],
+          "model": "Prisma E",
+          "bq": "D1.1.7",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "Q.R-B配電箱",
+          "brands": [
+            "Schneider"
+          ],
+          "model": "Prisma E",
+          "bq": "D1.1.8",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "Q.R-C配電箱",
+          "brands": [
+            "Schneider"
+          ],
+          "model": "Prisma E",
+          "bq": "D1.1.9",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "Q.R-D配電箱",
+          "brands": [
+            "Schneider"
+          ],
+          "model": "Prisma E",
+          "bq": "D1.1.10",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "Q.R-E配電箱",
+          "brands": [
+            "Schneider"
+          ],
+          "model": "Prisma E",
+          "bq": "D1.1.11",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "Q.R-F配電箱",
+          "brands": [
+            "Schneider"
+          ],
+          "model": "Prisma E",
+          "bq": "D1.1.12",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "Q.R-G配電箱",
+          "brands": [
+            "Schneider"
+          ],
+          "model": "Prisma E",
+          "bq": "D1.1.13",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "Q.R-H配電箱",
+          "brands": [
+            "Schneider"
+          ],
+          "model": "Prisma E",
+          "bq": "D1.1.14",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "Q.R-I配電箱",
+          "brands": [
+            "Schneider"
+          ],
+          "model": "Prisma E",
+          "bq": "D1.1.15",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "Q.R-J配電箱",
+          "brands": [
+            "Schneider"
+          ],
+          "model": "Prisma E",
+          "bq": "D1.1.16",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "SPRINT D-110 緊急玻璃掣",
+          "brands": [
+            "SPRINT"
+          ],
+          "model": "—",
+          "bq": "6.4.2",
+          "source": "MAT_AR-00X-XX材料報批格式.xls"
+        },
+        {
+          "tender_spec": "SeeWo 講台信號線盒",
+          "brands": [
+            "Commscope"
+          ],
+          "model": "詳見附件",
+          "bq": "D2.3.1",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "XV型電纜",
+          "brands": [
+            "Nexans"
+          ],
+          "model": "詳見附件",
+          "bq": "D1.2及D1.4",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "cat6插座模塊",
+          "brands": [
+            "COMMSCOPE"
+          ],
+          "model": "—",
+          "bq": "6.1.5",
+          "source": "MAT_AR-00X-XX材料報批格式.xls"
+        },
+        {
+          "tender_spec": "供電點(隔離開關/接線蘇)",
+          "brands": [
+            "Schneider",
+            "MK"
+          ],
+          "model": "Schneider",
+          "bq": "D1.5.5-1.5.6",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "喉管配件",
+          "brands": [
+            "邁克"
+          ],
+          "model": "詳見附件",
+          "bq": "F6, F8",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "單位及雙位13A電源插座",
+          "brands": [
+            "施耐德"
+          ],
+          "model": "—",
+          "bq": "2.3、2.4",
+          "source": "MAT_AR-00X-XX材料報批格式.xls"
+        },
+        {
+          "tender_spec": "單聯三控",
+          "brands": [
+            "MK"
+          ],
+          "model": "MK",
+          "bq": "D1.6.22",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "單聯單控",
+          "brands": [
+            "MK"
+          ],
+          "model": "MK",
+          "bq": "D1.6.20",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "單聯雙控",
+          "brands": [
+            "MK"
+          ],
+          "model": "MK",
+          "bq": "D1.6.21",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "天花風扇（美的FD40-11A）",
+          "brands": [
+            "美的"
+          ],
+          "model": "FD40-11A",
+          "bq": "—",
+          "source": "校舍修葺工程材料統計匯總表_v2.xlsx"
+        },
+        {
+          "tender_spec": "新增電箱、隔離開關、斷路器、保護装置",
+          "brands": [
+            "寧利",
+            "施耐德"
+          ],
+          "model": "—",
+          "bq": "2.8",
+          "source": "MAT_AR-00X-XX材料報批格式.xls"
+        },
+        {
+          "tender_spec": "梳茜、線槽",
+          "brands": [
+            "寧利"
+          ],
+          "model": "—",
+          "bq": "6.1.4",
+          "source": "MAT_AR-00X-XX材料報批格式.xls"
+        },
+        {
+          "tender_spec": "照明開關",
+          "brands": [
+            "施耐德"
+          ],
+          "model": "—",
+          "bq": "2.9",
+          "source": "MAT_AR-00X-XX材料報批格式.xls"
+        },
+        {
+          "tender_spec": "熱浸鉛水線槽",
+          "brands": [
+            "LIK HUNG"
+          ],
+          "model": "—",
+          "bq": "E.8",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "直徑150mm閘掣",
+          "brands": [
+            "津高"
+          ],
+          "model": "詳見附件",
+          "bq": "F5",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "網絡插座",
+          "brands": [
+            "COMMSCOPE"
+          ],
+          "model": "—",
+          "bq": "6.1.1",
+          "source": "MAT_AR-00X-XX材料報批格式.xls"
+        },
+        {
+          "tender_spec": "網絡插座",
+          "brands": [
+            "耐克森",
+            "Aginode/Nexans"
+          ],
+          "model": "N423.630P, N423.634P",
+          "bq": "E.2.1.1、E.2.1.2",
+          "source": "某政府部門-材料審批表-20240806-01.xlsx"
+        },
+        {
+          "tender_spec": "總電箱連相關配件",
+          "brands": [
+            "寧利",
+            "施耐德"
+          ],
+          "model": "—",
+          "bq": "2.5",
+          "source": "MAT_AR-00X-XX材料報批格式.xls"
+        },
+        {
+          "tender_spec": "鍍鋅線槽(弱電用)",
+          "brands": [
+            "WEW"
+          ],
+          "model": "—",
+          "bq": "E.2.1.16",
+          "source": "某政府部門-材料審批表-20240806-01.xlsx"
+        },
+        {
+          "tender_spec": "開關及插座",
+          "brands": [
+            "Schneider Electric"
+          ],
+          "model": "Vivace系列",
+          "bq": "E.1.2.1.1等",
+          "source": "某政府部門-材料審批表-20240806-01.xlsx"
+        },
+        {
+          "tender_spec": "電器開關掣",
+          "brands": [
+            "施耐德"
+          ],
+          "model": "豐尚系列",
+          "bq": "—",
+          "source": "某學校_材料匯總表_20260609(1).xlsx"
+        },
+        {
+          "tender_spec": "電箱 - 40A以下",
+          "brands": [
+            "Schneider"
+          ],
+          "model": "—",
+          "bq": "—",
+          "source": "校舍修葺工程材料統計匯總表_v2.xlsx"
+        },
+        {
+          "tender_spec": "電箱 - 40A至60A（戶外IP65防水304不鏽鋼配電箱）",
+          "brands": [
+            "Schneider"
+          ],
+          "model": "—",
+          "bq": "—",
+          "source": "校舍修葺工程材料統計匯總表_v2.xlsx"
+        },
+        {
+          "tender_spec": "電箱元件",
+          "brands": [
+            "Schneider Electric"
+          ],
+          "model": "Acti 9系列",
+          "bq": "E.1.1.1",
+          "source": "某政府部門-材料審批表-20240806-01.xlsx"
+        },
+        {
+          "tender_spec": "電線",
+          "brands": [
+            "General Cable"
+          ],
+          "model": "—",
+          "bq": "2.6、2.7、2.9",
+          "source": "MAT_AR-00X-XX材料報批格式.xls"
+        },
+        {
+          "tender_spec": "電線",
+          "brands": [
+            "Draka"
+          ],
+          "model": "H07V-U",
+          "bq": "E.1.2.3.1等",
+          "source": "某政府部門-材料審批表-20240806-01.xlsx"
+        },
+        {
+          "tender_spec": "電線導管",
+          "brands": [
+            "Crown"
+          ],
+          "model": "—",
+          "bq": "E.7~E.8",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "電腦網絡插座",
+          "brands": [
+            "Commscope"
+          ],
+          "model": "—",
+          "bq": "—",
+          "source": "某學校_材料匯總表_20260609(1).xlsx"
+        },
+        {
+          "tender_spec": "電話插座",
+          "brands": [
+            "COMMSCOPE"
+          ],
+          "model": "—",
+          "bq": "6.3.1",
+          "source": "MAT_AR-00X-XX材料報批格式.xls"
+        },
+        {
+          "tender_spec": "供水主喉管（Tub-e銅喉，Kitz閘掣）",
+          "brands": [
+            "tub-e",
+            "SP",
+            "Kitz"
+          ],
+          "model": "—",
+          "bq": "—",
+          "source": "校舍修葺工程材料統計匯總表_v2.xlsx"
+        },
+        {
+          "tender_spec": "排水主喉管（CROWN質量）",
+          "brands": [
+            "皇冠"
+          ],
+          "model": "—",
+          "bq": "—",
+          "source": "校舍修葺工程材料統計匯總表_v2.xlsx"
+        },
+        {
+          "tender_spec": "配電箱 QGBT",
+          "brands": [
+            "Legrand",
+            "Schneider Electric"
+          ],
+          "model": "詳見附件",
+          "bq": "1.1.1",
+          "source": "某街市維修及更改工程(某承建商)-材料跟蹤表總表/材料審批表"
+        },
+        {
+          "tender_spec": "配電箱 QSC",
+          "brands": [
+            "Legrand",
+            "Schneider Electric"
+          ],
+          "model": "詳見附件",
+          "bq": "1.2.1",
+          "source": "某街市維修及更改工程(某承建商)-材料跟蹤表總表/材料審批表"
+        },
+        {
+          "tender_spec": "配電箱 Q.A C",
+          "brands": [
+            "Legrand",
+            "Schneider Electric"
+          ],
+          "model": "詳見附件",
+          "bq": "1.2.2",
+          "source": "某街市維修及更改工程(某承建商)-材料跟蹤表總表/材料審批表"
+        },
+        {
+          "tender_spec": "接地銅導線(240mm²)",
+          "brands": [
+            "Uniech",
+            "Furse"
+          ],
+          "model": "詳見附件",
+          "bq": "2.1",
+          "source": "某街市維修及更改工程(某承建商)-材料跟蹤表總表/材料審批表"
+        },
+        {
+          "tender_spec": "接地銅棒",
+          "brands": [
+            "Uniech",
+            "Furse"
+          ],
+          "model": "詳見附件",
+          "bq": "2.x",
+          "source": "某街市維修及更改工程(某承建商)-材料跟蹤表總表/材料審批表"
+        },
+        {
+          "tender_spec": "電力電纜 XV(三相)",
+          "brands": [
+            "MAS"
+          ],
+          "model": "詳見附件",
+          "bq": "3.x",
+          "source": "某街市維修及更改工程(某承建商)-材料跟蹤表總表/材料審批表"
+        },
+        {
+          "tender_spec": "電力電纜 V型",
+          "brands": [
+            "MAS"
+          ],
+          "model": "詳見附件",
+          "bq": "3.x",
+          "source": "某街市維修及更改工程(某承建商)-材料跟蹤表總表/材料審批表"
+        },
+        {
+          "tender_spec": "FRC電纜",
+          "brands": [
+            "MAS"
+          ],
+          "model": "詳見附件",
+          "bq": "3.x",
+          "source": "某街市維修及更改工程(某承建商)-材料跟蹤表總表/材料審批表"
+        },
+        {
+          "tender_spec": "防水開關掣(IP66) 13A/250V",
+          "brands": [
+            "MK"
+          ],
+          "model": "詳見附件",
+          "bq": "5.4",
+          "source": "某街市維修及更改工程(某承建商)-材料跟蹤表總表/材料審批表"
+        },
+        {
+          "tender_spec": "16A單位開關掣(燈掣)",
+          "brands": [
+            "Schneider Electric"
+          ],
+          "model": "詳見附件",
+          "bq": "4.37",
+          "source": "某街市維修及更改工程(某承建商)-材料跟蹤表總表/材料審批表"
+        },
+        {
+          "tender_spec": "防水4極開關 32A",
+          "brands": [
+            "MK"
+          ],
+          "model": "詳見附件",
+          "bq": "11.8",
+          "source": "某街市維修及更改工程(某承建商)-材料跟蹤表總表/材料審批表"
+        },
+        {
+          "tender_spec": "熱浸鋅梯架",
+          "brands": [
+            "WEW"
+          ],
+          "model": "詳見附件",
+          "bq": "11.11",
+          "source": "某街市維修及更改工程(某承建商)-材料跟蹤表總表/材料審批表"
+        },
+        {
+          "tender_spec": "金屬線架(疏茜)",
+          "brands": [
+            "WEW"
+          ],
+          "model": "詳見附件",
+          "bq": "11.12",
+          "source": "某街市維修及更改工程(某承建商)-材料跟蹤表總表/材料審批表"
+        },
+        {
+          "tender_spec": "金屬線槽",
+          "brands": [
+            "WEW"
+          ],
+          "model": "詳見附件",
+          "bq": "11.13",
+          "source": "某街市維修及更改工程(某承建商)-材料跟蹤表總表/材料審批表"
+        },
+        {
+          "tender_spec": "防水接線箱",
+          "brands": [
+            "MK"
+          ],
+          "model": "詳見附件",
+          "bq": "11.1",
+          "source": "某街市維修及更改工程(某承建商)-材料跟蹤表總表/材料審批表"
+        },
+        {
+          "tender_spec": "防水塑料分線箱(4\"×4\")",
+          "brands": [
+            "JSL"
+          ],
+          "model": "詳見附件",
+          "bq": "4.44",
+          "source": "某街市維修及更改工程(某承建商)-材料跟蹤表總表/材料審批表"
+        },
+        {
+          "tender_spec": "地線的鋼筋混凝土檢測井",
+          "brands": [
+            "Unitech"
+          ],
+          "model": "詳見附件",
+          "bq": "1.14",
+          "source": "某街市維修及更改工程(某承建商)-材料跟蹤表總表/材料審批表"
+        },
+        {
+          "tender_spec": "3×2.5mm² 電線/電纜 (power cable)",
+          "brands": [
+            "Prysmian"
+          ],
+          "model": "—",
+          "bq": "EL",
+          "source": "某社會設施優化工程(某局2021-44,某承建商)"
+        }
+      ]
+    },
+    "EL_lighting": {
+      "label": "燈具/照明",
+      "count": 55,
+      "items": [
+        {
+          "tender_spec": "LED光管",
+          "brands": [
+            "飛利浦"
+          ],
+          "model": "—",
+          "bq": "2.1",
+          "source": "MAT_AR-00X-XX材料報批格式.xls"
+        },
+        {
+          "tender_spec": "LED燈盤",
+          "brands": [
+            "飛利浦"
+          ],
+          "model": "—",
+          "bq": "2.1",
+          "source": "MAT_AR-00X-XX材料報批格式.xls"
+        },
+        {
+          "tender_spec": "LED長條裝燈盤4000k",
+          "brands": [
+            "飛利浦"
+          ],
+          "model": "—",
+          "bq": "J4.1",
+          "source": "副本某學校-材料審批表-帶品牌2.xls"
+        },
+        {
+          "tender_spec": "PVC燈喉及配件",
+          "brands": [
+            "皇冠"
+          ],
+          "model": "詳見附件",
+          "bq": "F11-F14 & F20-F22",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "出路指示牌",
+          "brands": [
+            "AutoSource"
+          ],
+          "model": "AutoSource",
+          "bq": "D1.6.18",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "墻身綠化燈箱系統",
+          "brands": [
+            "宏亮"
+          ],
+          "model": "—",
+          "bq": "B4.18",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "廣告燈箱",
+          "brands": [
+            "實版"
+          ],
+          "model": "—",
+          "bq": "B4.19",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "照明燈具 - 燈盤",
+          "brands": [
+            "飛利浦"
+          ],
+          "model": "由業主選定",
+          "bq": "—",
+          "source": "某學校_材料匯總表_20260609(1).xlsx"
+        },
+        {
+          "tender_spec": "照明燈具-單管格柵燈盤（白光6500K，飛利浦T8LED）",
+          "brands": [
+            "飛利浦"
+          ],
+          "model": "—",
+          "bq": "—",
+          "source": "校舍修葺工程材料統計匯總表_v2.xlsx"
+        },
+        {
+          "tender_spec": "照明燈具-單管連燈盤（飛利浦TBS469 1x1200 T8 LED）",
+          "brands": [
+            "飛利浦"
+          ],
+          "model": "—",
+          "bq": "—",
+          "source": "校舍修葺工程材料統計匯總表_v2.xlsx"
+        },
+        {
+          "tender_spec": "照明燈具-燈盤（Philips LED平板燈600x600，4000K，36W）",
+          "brands": [
+            "飛利浦"
+          ],
+          "model": "—",
+          "bq": "—",
+          "source": "校舍修葺工程材料統計匯總表_v2.xlsx"
+        },
+        {
+          "tender_spec": "照明燈具-雙管連燈盤（白光6500K，飛利浦TBS469 2x1200 T8 LED）",
+          "brands": [
+            "飛利浦"
+          ],
+          "model": "—",
+          "bq": "—",
+          "source": "校舍修葺工程材料統計匯總表_v2.xlsx"
+        },
+        {
+          "tender_spec": "燈具VD20喉及配件",
+          "brands": [
+            "Lesso聯塑"
+          ],
+          "model": "詳見附件",
+          "bq": "D1.6.1-1.6.2/D1.6.19",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "燈具兩小時後備電池E-kits",
+          "brands": [
+            "AutoSource"
+          ],
+          "model": "AutoSource",
+          "bq": "D1.6.17",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "燈槽側面吸音軟包飾面",
+          "brands": [
+            "聲博士"
+          ],
+          "model": "—",
+          "bq": "B4.7",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "膠面LED LT-02",
+          "brands": [
+            "施耐德"
+          ],
+          "model": "與設計相同",
+          "bq": "J4.2",
+          "source": "某學校-材料審批表.xls"
+        },
+        {
+          "tender_spec": "調光器/照明控制系統",
+          "brands": [
+            "DIMON"
+          ],
+          "model": "—",
+          "bq": "D1.x",
+          "source": "某酒店項目"
+        },
+        {
+          "tender_spec": "LED燈具/照明",
+          "brands": [
+            "Campton至高",
+            "Campton"
+          ],
+          "model": "—",
+          "bq": "D2.x",
+          "source": "某酒店項目"
+        },
+        {
+          "tender_spec": "LED燈具/照明",
+          "brands": [
+            "UKOO照明",
+            "UKOO"
+          ],
+          "model": "—",
+          "bq": "D2.x",
+          "source": "某酒店項目"
+        },
+        {
+          "tender_spec": "LED燈具/燈帶/筒燈/燈軌 (某院校2023)",
+          "brands": [
+            "XAL"
+          ],
+          "model": "",
+          "bq": "",
+          "source": "某院校2023住宿樓(某承建商)"
+        },
+        {
+          "tender_spec": "裝飾/建築燈具 (某院校2023)",
+          "brands": [
+            "NEMO"
+          ],
+          "model": "",
+          "bq": "",
+          "source": "某院校2023住宿樓(某承建商)"
+        },
+        {
+          "tender_spec": "裝飾燈具 (某院校2023)",
+          "brands": [
+            "FLOS"
+          ],
+          "model": "",
+          "bq": "",
+          "source": "某院校2023住宿樓(某承建商)"
+        },
+        {
+          "tender_spec": "嵌入式/線條燈具 (某院校2023)",
+          "brands": [
+            "VINO"
+          ],
+          "model": "",
+          "bq": "",
+          "source": "某院校2023住宿樓(某承建商)"
+        },
+        {
+          "tender_spec": "燈具 (某院校2023)",
+          "brands": [
+            "WEVER"
+          ],
+          "model": "",
+          "bq": "",
+          "source": "某院校2023住宿樓(某承建商)"
+        },
+        {
+          "tender_spec": "LED燈帶/燈具 (某院校2023)",
+          "brands": [
+            "AIR LED PLUS"
+          ],
+          "model": "",
+          "bq": "",
+          "source": "某院校2023住宿樓(某承建商)"
+        },
+        {
+          "tender_spec": "嵌入式筒燈系列 (某院校2023)",
+          "brands": [
+            "KOMBIC"
+          ],
+          "model": "",
+          "bq": "",
+          "source": "某院校2023住宿樓(某承建商)"
+        },
+        {
+          "tender_spec": "ANI系列燈具 (某院校2023)",
+          "brands": [
+            "EMFA"
+          ],
+          "model": "",
+          "bq": "",
+          "source": "某院校2023住宿樓(某承建商)"
+        },
+        {
+          "tender_spec": "燈軌/軌道燈 (某院校2023)",
+          "brands": [
+            "HANCE"
+          ],
+          "model": "",
+          "bq": "",
+          "source": "某院校2023住宿樓(某承建商)"
+        },
+        {
+          "tender_spec": "LED燈帶系列 (某院校2023)",
+          "brands": [
+            "NEXXUS"
+          ],
+          "model": "",
+          "bq": "",
+          "source": "某院校2023住宿樓(某承建商)"
+        },
+        {
+          "tender_spec": "應急照明/消防燈具 (某院校2023)",
+          "brands": [
+            "Eight"
+          ],
+          "model": "",
+          "bq": "",
+          "source": "某院校2023住宿樓(某承建商)"
+        },
+        {
+          "tender_spec": "消防應急廣播/照明 (某院校2023)",
+          "brands": [
+            "ASD"
+          ],
+          "model": "",
+          "bq": "",
+          "source": "某院校2023住宿樓(某承建商)"
+        },
+        {
+          "tender_spec": "LED光管盤(600×600mm)",
+          "brands": [
+            "Hoye"
+          ],
+          "model": "詳見附件",
+          "bq": "4.13",
+          "source": "某街市維修及更改工程(某承建商)-材料跟蹤表總表/材料審批表"
+        },
+        {
+          "tender_spec": "LED防水雙光管支架(4呎/IP65)",
+          "brands": [
+            "Hoye"
+          ],
+          "model": "詳見附件",
+          "bq": "4.14",
+          "source": "某街市維修及更改工程(某承建商)-材料跟蹤表總表/材料審批表"
+        },
+        {
+          "tender_spec": "LED防水單光管支架(4呎)",
+          "brands": [
+            "Hoye"
+          ],
+          "model": "詳見附件",
+          "bq": "4.15",
+          "source": "某街市維修及更改工程(某承建商)-材料跟蹤表總表/材料審批表"
+        },
+        {
+          "tender_spec": "LED防水雙光管支架(2呎)",
+          "brands": [
+            "Hoye"
+          ],
+          "model": "詳見附件",
+          "bq": "4.16",
+          "source": "某街市維修及更改工程(某承建商)-材料跟蹤表總表/材料審批表"
+        },
+        {
+          "tender_spec": "LED防水單光管支架(2呎)",
+          "brands": [
+            "Hoye"
+          ],
+          "model": "詳見附件",
+          "bq": "4.17",
+          "source": "某街市維修及更改工程(某承建商)-材料跟蹤表總表/材料審批表"
+        },
+        {
+          "tender_spec": "防水LED吊燈(IP66) L1",
+          "brands": [
+            "PIL"
+          ],
+          "model": "詳見附件",
+          "bq": "4.1",
+          "source": "某街市維修及更改工程(某承建商)-材料跟蹤表總表/材料審批表"
+        },
+        {
+          "tender_spec": "防水吸頂LED燈(IP65) L2",
+          "brands": [
+            "PIL"
+          ],
+          "model": "詳見附件",
+          "bq": "4.2",
+          "source": "某街市維修及更改工程(某承建商)-材料跟蹤表總表/材料審批表"
+        },
+        {
+          "tender_spec": "防水LED壁燈(IP65) L3",
+          "brands": [
+            "Rovasi"
+          ],
+          "model": "詳見附件",
+          "bq": "4.3",
+          "source": "某街市維修及更改工程(某承建商)-材料跟蹤表總表/材料審批表"
+        },
+        {
+          "tender_spec": "防水高樓底LED吊燈(IP65) L4",
+          "brands": [
+            "HALOPRISM"
+          ],
+          "model": "詳見附件",
+          "bq": "4.4",
+          "source": "某街市維修及更改工程(某承建商)-材料跟蹤表總表/材料審批表"
+        },
+        {
+          "tender_spec": "防水直線型LED燈具 L5",
+          "brands": [
+            "ARES"
+          ],
+          "model": "詳見附件",
+          "bq": "4.5",
+          "source": "某街市維修及更改工程(某承建商)-材料跟蹤表總表/材料審批表"
+        },
+        {
+          "tender_spec": "防水LED射燈(IP66) L6",
+          "brands": [
+            "PLI"
+          ],
+          "model": "詳見附件",
+          "bq": "4.6",
+          "source": "某街市維修及更改工程(某承建商)-材料跟蹤表總表/材料審批表"
+        },
+        {
+          "tender_spec": "防水LED射燈(IP66) L7",
+          "brands": [
+            "PLI"
+          ],
+          "model": "詳見附件",
+          "bq": "4.7",
+          "source": "某街市維修及更改工程(某承建商)-材料跟蹤表總表/材料審批表"
+        },
+        {
+          "tender_spec": "防水LED射燈(IP66) L8",
+          "brands": [
+            "PLI"
+          ],
+          "model": "詳見附件",
+          "bq": "4.8",
+          "source": "某街市維修及更改工程(某承建商)-材料跟蹤表總表/材料審批表"
+        },
+        {
+          "tender_spec": "防水LED壁燈(IP65) L9",
+          "brands": [
+            "Rovasi"
+          ],
+          "model": "詳見附件",
+          "bq": "4.9",
+          "source": "某街市維修及更改工程(某承建商)-材料跟蹤表總表/材料審批表"
+        },
+        {
+          "tender_spec": "防水LED明裝筒燈(IP65) L10",
+          "brands": [
+            "ESSE-CI"
+          ],
+          "model": "詳見附件",
+          "bq": "4.10",
+          "source": "某街市維修及更改工程(某承建商)-材料跟蹤表總表/材料審批表"
+        },
+        {
+          "tender_spec": "藏天花式LED筒燈 L11",
+          "brands": [
+            "ESSE-CI"
+          ],
+          "model": "詳見附件",
+          "bq": "4.11",
+          "source": "某街市維修及更改工程(某承建商)-材料跟蹤表總表/材料審批表"
+        },
+        {
+          "tender_spec": "藏天花式LED筒燈 L12",
+          "brands": [
+            "ESSE-CI"
+          ],
+          "model": "詳見附件",
+          "bq": "4.12",
+          "source": "某街市維修及更改工程(某承建商)-材料跟蹤表總表/材料審批表"
+        },
+        {
+          "tender_spec": "LED緊急照明燈",
+          "brands": [
+            "Hi-lu*"
+          ],
+          "model": "詳見附件",
+          "bq": "4.29",
+          "source": "某街市維修及更改工程(某承建商)-材料跟蹤表總表/材料審批表"
+        },
+        {
+          "tender_spec": "LED滅蚊燈",
+          "brands": [
+            "燈下科技"
+          ],
+          "model": "詳見附件",
+          "bq": "4.33",
+          "source": "某街市維修及更改工程(某承建商)-材料跟蹤表總表/材料審批表"
+        },
+        {
+          "tender_spec": "B27燈座+18W LED燈",
+          "brands": [
+            "非常時光"
+          ],
+          "model": "詳見附件",
+          "bq": "4.28",
+          "source": "某街市維修及更改工程(某承建商)-材料跟蹤表總表/材料審批表"
+        },
+        {
+          "tender_spec": "LED緊急照明燈 (emergency light)",
+          "brands": [
+            "AUTO SOURCE"
+          ],
+          "model": "",
+          "bq": "E4.5",
+          "source": "某市政公廁項目(2020)"
+        },
+        {
+          "tender_spec": "LED出路指示燈 (exit sign)",
+          "brands": [
+            "AUTO SOURCE"
+          ],
+          "model": "",
+          "bq": "E4.6",
+          "source": "某市政公廁項目(2020)"
+        },
+        {
+          "tender_spec": "嵌入式燈具 L1/L2 (recessed luminaire)",
+          "brands": [
+            "Esse-ci",
+            "ESSE-CI"
+          ],
+          "model": "",
+          "bq": "E4.1,E4.2",
+          "source": "某市政公廁項目(2020)"
+        },
+        {
+          "tender_spec": "600×600 T8 LED燈盤 4×10W (LED batten)",
+          "brands": [
+            "佛山照明",
+            "Foshan Lighting"
+          ],
+          "model": "GS6060",
+          "bq": "EL",
+          "source": "某社會設施優化工程(某局2021-44,某承建商)"
+        }
+      ]
+    },
+    "EL_elv": {
+      "label": "弱電/ELV",
+      "count": 48,
+      "items": [
+        {
+          "tender_spec": "24port網絡配線架",
+          "brands": [
+            "COMMSCOPE"
+          ],
+          "model": "—",
+          "bq": "6.1.5",
+          "source": "MAT_AR-00X-XX材料報批格式.xls"
+        },
+        {
+          "tender_spec": "8芯多模光纖",
+          "brands": [
+            "COMMSCOPE"
+          ],
+          "model": "—",
+          "bq": "6.1.2、6.1.5",
+          "source": "MAT_AR-00X-XX材料報批格式.xls"
+        },
+        {
+          "tender_spec": "CAT.6網線",
+          "brands": [
+            "耐克森",
+            "Aginode/Nexans"
+          ],
+          "model": "N100.170",
+          "bq": "E.2.1.9、E.2.1.10",
+          "source": "某政府部門-材料審批表-20240806-01.xlsx"
+        },
+        {
+          "tender_spec": "HDMI-信號線",
+          "brands": [
+            "綠聯"
+          ],
+          "model": "詳見附件",
+          "bq": "D2.3.4",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "HDMI-線材",
+          "brands": [
+            "綠聯"
+          ],
+          "model": "詳見附件",
+          "bq": "D2.3.6",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "RJ45 網絡Cat6 線路",
+          "brands": [
+            "Commscope"
+          ],
+          "model": "詳見附件",
+          "bq": "D2.1.1-D2.1.6",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "SPK 喇叭-信號線",
+          "brands": [
+            "Commscope"
+          ],
+          "model": "詳見附件",
+          "bq": "D2.3.2",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "SPRINT S0l 單門磁力鎖",
+          "brands": [
+            "SPRINT"
+          ],
+          "model": "—",
+          "bq": "6.4.2",
+          "source": "MAT_AR-00X-XX材料報批格式.xls"
+        },
+        {
+          "tender_spec": "USB-信號線",
+          "brands": [
+            "綠聯"
+          ],
+          "model": "詳見附件",
+          "bq": "D2.3.3",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "ZKTeco門禁讀卡器",
+          "brands": [
+            "ZKTeco"
+          ],
+          "model": "—",
+          "bq": "6.4.1、6.4.2",
+          "source": "MAT_AR-00X-XX材料報批格式.xls"
+        },
+        {
+          "tender_spec": "cat6網絡線",
+          "brands": [
+            "COMMSCOPE"
+          ],
+          "model": "—",
+          "bq": "6.1.1等多個",
+          "source": "MAT_AR-00X-XX材料報批格式.xls"
+        },
+        {
+          "tender_spec": "poe注入器",
+          "brands": [
+            "愛思創",
+            "Extron"
+          ],
+          "model": "PI 115",
+          "bq": "E.2.6.72",
+          "source": "某政府部門-材料審批表-20240806-01.xlsx"
+        },
+        {
+          "tender_spec": "交換機",
+          "brands": [
+            "H3C"
+          ],
+          "model": "5130S-28S-PWR-HI",
+          "bq": "—",
+          "source": "主要材料清單.xls"
+        },
+        {
+          "tender_spec": "供電電源線",
+          "brands": [
+            "General Cable"
+          ],
+          "model": "—",
+          "bq": "E.7~E.8",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "光纖盤",
+          "brands": [
+            "COMMSCOPE"
+          ],
+          "model": "—",
+          "bq": "6.1.5",
+          "source": "MAT_AR-00X-XX材料報批格式.xls"
+        },
+        {
+          "tender_spec": "單門磁力鎖",
+          "brands": [
+            "SPRINT"
+          ],
+          "model": "—",
+          "bq": "6.4.1、6.4.2",
+          "source": "MAT_AR-00X-XX材料報批格式.xls"
+        },
+        {
+          "tender_spec": "天花咪-信號線",
+          "brands": [
+            "Commscope"
+          ],
+          "model": "詳見附件",
+          "bq": "D2.3.5",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "投影幕",
+          "brands": [
+            "YTK"
+          ],
+          "model": "EDR100D",
+          "bq": "—",
+          "source": "主要材料清單.xls"
+        },
+        {
+          "tender_spec": "投影機",
+          "brands": [
+            "Epson"
+          ],
+          "model": "EB-800F",
+          "bq": "—",
+          "source": "主要材料清單.xls"
+        },
+        {
+          "tender_spec": "控制線",
+          "brands": [
+            "Cabletech"
+          ],
+          "model": "—",
+          "bq": "E7.3，E.8",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "教學顯示器（電視機）",
+          "brands": [
+            "Samsung"
+          ],
+          "model": "QM65C",
+          "bq": "—",
+          "source": "主要材料清單.xls"
+        },
+        {
+          "tender_spec": "無線接入點（AP）",
+          "brands": [
+            "H3C"
+          ],
+          "model": "WA6520S-C-FIT",
+          "bq": "—",
+          "source": "主要材料清單.xls"
+        },
+        {
+          "tender_spec": "無線網絡接入點（AP）",
+          "brands": [
+            "華為",
+            "HUAWEI"
+          ],
+          "model": "AP 362",
+          "bq": "E.2.6.72",
+          "source": "某政府部門-材料審批表-20240806-01.xlsx"
+        },
+        {
+          "tender_spec": "理線架",
+          "brands": [
+            "COMMSCOPE"
+          ],
+          "model": "—",
+          "bq": "6.1.5",
+          "source": "MAT_AR-00X-XX材料報批格式.xls"
+        },
+        {
+          "tender_spec": "網絡插頭",
+          "brands": [
+            "康普",
+            "Commscope"
+          ],
+          "model": "6-2111979-2",
+          "bq": "E.2.1.8",
+          "source": "某政府部門-材料審批表-20240806-01.xlsx"
+        },
+        {
+          "tender_spec": "網絡跳線",
+          "brands": [
+            "COMMSCOPE"
+          ],
+          "model": "—",
+          "bq": "6.1.5",
+          "source": "MAT_AR-00X-XX材料報批格式.xls"
+        },
+        {
+          "tender_spec": "觸摸屏",
+          "brands": [
+            "愛思創",
+            "Extron"
+          ],
+          "model": "TLP Pro 1025M",
+          "bq": "E.2.6.73",
+          "source": "某政府部門-材料審批表-20240806-01.xlsx"
+        },
+        {
+          "tender_spec": "輸入模塊",
+          "brands": [
+            "GST"
+          ],
+          "model": "詳見附件",
+          "bq": "F13",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "輸出模塊",
+          "brands": [
+            "GST"
+          ],
+          "model": "詳見附件",
+          "bq": "F13",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "門禁電源連電池箱",
+          "brands": [
+            "新嘉誠"
+          ],
+          "model": "—",
+          "bq": "6.4.1、6.4.2",
+          "source": "MAT_AR-00X-XX材料報批格式.xls"
+        },
+        {
+          "tender_spec": "閉路電視",
+          "brands": [
+            "海康威視"
+          ],
+          "model": "—",
+          "bq": "6.2.1",
+          "source": "MAT_AR-00X-XX材料報批格式.xls"
+        },
+        {
+          "tender_spec": "閉路電視帶錄音功能",
+          "brands": [
+            "海康威視"
+          ],
+          "model": "—",
+          "bq": "6.2.2",
+          "source": "MAT_AR-00X-XX材料報批格式.xls"
+        },
+        {
+          "tender_spec": "電磁鎖",
+          "brands": [
+            "Sprintlocks"
+          ],
+          "model": "詳見附件",
+          "bq": "D2.2.3",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "電話排骨模塊",
+          "brands": [
+            "KRONE"
+          ],
+          "model": "—",
+          "bq": "6.3.2",
+          "source": "MAT_AR-00X-XX材料報批格式.xls"
+        },
+        {
+          "tender_spec": "控制線",
+          "brands": [
+            "Belden"
+          ],
+          "model": "—",
+          "bq": "—",
+          "source": "某政府項目2020材料審批"
+        },
+        {
+          "tender_spec": "公共廣播系統/PA系統",
+          "brands": [
+            "ITC"
+          ],
+          "model": "—",
+          "bq": "—",
+          "source": "某酒店項目"
+        },
+        {
+          "tender_spec": "網絡交換機/綜合佈線 (某院校2023)",
+          "brands": [
+            "H3C"
+          ],
+          "model": "",
+          "bq": "",
+          "source": "某院校2023住宿樓(某承建商)"
+        },
+        {
+          "tender_spec": "公共廣播系統 PA (某院校2023)",
+          "brands": [
+            "Dsppa"
+          ],
+          "model": "",
+          "bq": "",
+          "source": "某院校2023住宿樓(某承建商)"
+        },
+        {
+          "tender_spec": "KVM/機櫃控制台 (某院校2023)",
+          "brands": [
+            "Austin Hughes"
+          ],
+          "model": "",
+          "bq": "",
+          "source": "某院校2023住宿樓(某承建商)"
+        },
+        {
+          "tender_spec": "樓宇自動化/消防控制 (某院校2023)",
+          "brands": [
+            "Honeywell"
+          ],
+          "model": "",
+          "bq": "",
+          "source": "某院校2023住宿樓(某承建商)"
+        },
+        {
+          "tender_spec": "接地極/接地線/防雷材料 (某院校2023)",
+          "brands": [
+            "Furse"
+          ],
+          "model": "",
+          "bq": "",
+          "source": "某院校2023住宿樓(某承建商)"
+        },
+        {
+          "tender_spec": "電箱/電氣元件 (某院校2023 香港品牌)",
+          "brands": [
+            "Lik Hung"
+          ],
+          "model": "",
+          "bq": "",
+          "source": "某院校2023住宿樓(某承建商)"
+        },
+        {
+          "tender_spec": "緊急呼叫系統/防水呼叫開關/拉繩呼喚掣",
+          "brands": [
+            "miTEC"
+          ],
+          "model": "",
+          "bq": "E6.2.1-E6.3.2",
+          "source": "某市政公廁項目(2020)"
+        },
+        {
+          "tender_spec": "42U機櫃 (network cabinet 網絡機櫃)",
+          "brands": [
+            "AUSTIN-HUGHES"
+          ],
+          "model": "NSR-6042",
+          "bq": "M-series",
+          "source": "某社會設施優化工程(某局2021-44,某承建商)"
+        },
+        {
+          "tender_spec": "緊急呼叫系統 (emergency call system, 控制主機+顯示面板)",
+          "brands": [
+            "BOSCH"
+          ],
+          "model": "IP7400XI-CHI / DS7447V3-CHI",
+          "bq": "M-series",
+          "source": "某社會設施優化工程(某局2021-44,某承建商)"
+        },
+        {
+          "tender_spec": "門禁電鎖 (electric lock, 含結構化佈線)",
+          "brands": [
+            "SPRINT",
+            "CommScope"
+          ],
+          "model": "S01 / PB29 / D-110",
+          "bq": "2E.18",
+          "source": "某社會設施優化工程(某局2021-44,某承建商)"
+        },
+        {
+          "tender_spec": "拉繩呼叫按鈕 (pull-cord call button)",
+          "brands": [
+            "IFCS",
+            "CommScope"
+          ],
+          "model": "IF-E03+IF-H103",
+          "bq": "2H.11.1~2H.11.31",
+          "source": "某社會設施優化工程(某局2021-44,某承建商)"
+        },
+        {
+          "tender_spec": "Cat6 網絡線 (structured cabling, Cat6)",
+          "brands": [
+            "AMP"
+          ],
+          "model": "—",
+          "bq": "M-series",
+          "source": "某社會設施優化工程(某局2021-44,某承建商)"
+        }
+      ]
+    },
+    "PLUMBING": {
+      "label": "給排水/潔具",
+      "count": 48,
+      "items": [
+        {
+          "tender_spec": "304不鏽鋼地漏",
+          "brands": [
+            "TOTO"
+          ],
+          "model": "—",
+          "bq": "N2.1",
+          "source": "副本某學校-材料審批表-帶品牌2.xls"
+        },
+        {
+          "tender_spec": "304不鏽鋼地漏 CL-10",
+          "brands": [
+            "TOTO"
+          ],
+          "model": "—",
+          "bq": "N2.1",
+          "source": "某學校-材料審批表-r1.xls"
+        },
+        {
+          "tender_spec": "UPVC污水排水管",
+          "brands": [
+            "皇冠"
+          ],
+          "model": "詳見附件",
+          "bq": "C2.1、C2.3、C2.4",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "VD20喉及配件",
+          "brands": [
+            "Lesso聯塑"
+          ],
+          "model": "詳見附件",
+          "bq": "D1.4.8/D1.5.1-1.5.2",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "不銹鋼水龍頭 CL-06",
+          "brands": [
+            "TOTO"
+          ],
+          "model": "—",
+          "bq": "I.7",
+          "source": "副本某學校-材料審批表-帶品牌2.xls"
+        },
+        {
+          "tender_spec": "不銹鋼龍頭 CL-01",
+          "brands": [
+            "TOTO"
+          ],
+          "model": "—",
+          "bq": "I.1",
+          "source": "副本某學校-材料審批表-帶品牌2.xls"
+        },
+        {
+          "tender_spec": "乾手機（莫頓MD-6667，雙電機）",
+          "brands": [
+            "莫頓"
+          ],
+          "model": "MD-6667",
+          "bq": "—",
+          "source": "校舍修葺工程材料統計匯總表_v2.xlsx"
+        },
+        {
+          "tender_spec": "供排水系統 - 地漏",
+          "brands": [
+            "箭牌"
+          ],
+          "model": "—",
+          "bq": "—",
+          "source": "校舍修葺工程材料統計匯總表_v2.xlsx"
+        },
+        {
+          "tender_spec": "儲物櫃(訂造，FORMICA仿石櫃)",
+          "brands": [
+            "FORMICA"
+          ],
+          "model": "—",
+          "bq": "—",
+          "source": "校舍修葺工程材料統計匯總表_v2.xlsx"
+        },
+        {
+          "tender_spec": "冷凝去水管",
+          "brands": [
+            "Crown"
+          ],
+          "model": "—",
+          "bq": "E.4.1",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "冷媒銅喉",
+          "brands": [
+            "SealPerfect"
+          ],
+          "model": "—",
+          "bq": "E.3.1",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "冷水銅喉",
+          "brands": [
+            "KEY"
+          ],
+          "model": "詳見附件",
+          "bq": "C1.4",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "冷水銅製水閘",
+          "brands": [
+            "KEY"
+          ],
+          "model": "詳見附件",
+          "bq": "C1.5",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "冷煤銅喉",
+          "brands": [
+            "Selperfect"
+          ],
+          "model": "—",
+          "bq": "C.3.1",
+          "source": "某政府部門-材料審批表-20240806-01.xlsx"
+        },
+        {
+          "tender_spec": "可調教傾斜鏡",
+          "brands": [
+            "BOBRICK"
+          ],
+          "model": "—",
+          "bq": "B.7.14",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "台下盆",
+          "brands": [
+            "COTTO"
+          ],
+          "model": "C017",
+          "bq": "B.7.3",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "安裝紙巾架",
+          "brands": [
+            "BOBRICK"
+          ],
+          "model": "B-2888",
+          "bq": "B.7.10",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "感應式小便器",
+          "brands": [
+            "COTTO"
+          ],
+          "model": "C30207BI",
+          "bq": "B.7.15",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "感應式座便器",
+          "brands": [
+            "COTTO"
+          ],
+          "model": "C13221BI",
+          "bq": "B.7.8",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "感應水龍頭",
+          "brands": [
+            "COTTO"
+          ],
+          "model": "CT4907AC",
+          "bq": "B.7.4",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "成人座廁 CL-12",
+          "brands": [
+            "TOTO"
+          ],
+          "model": "—",
+          "bq": "I.5",
+          "source": "某學校-材料審批表-r1.xls"
+        },
+        {
+          "tender_spec": "廁紙架（American Standard FFAS0489）",
+          "brands": [
+            "American Standard"
+          ],
+          "model": "FFAS0489",
+          "bq": "—",
+          "source": "校舍修葺工程材料統計匯總表_v2.xlsx"
+        },
+        {
+          "tender_spec": "潔具 - 小便鬥（男廁，TOTO）",
+          "brands": [
+            "TOTO"
+          ],
+          "model": "—",
+          "bq": "—",
+          "source": "校舍修葺工程材料統計匯總表_v2.xlsx"
+        },
+        {
+          "tender_spec": "潔具 - 成人座廁（男廁2套+女廁2套，TOTO）",
+          "brands": [
+            "TOTO"
+          ],
+          "model": "—",
+          "bq": "—",
+          "source": "校舍修葺工程材料統計匯總表_v2.xlsx"
+        },
+        {
+          "tender_spec": "潔具 - 水龍頭（220V電感龍頭，American Standard）",
+          "brands": [
+            "American Standard"
+          ],
+          "model": "—",
+          "bq": "—",
+          "source": "校舍修葺工程材料統計匯總表_v2.xlsx"
+        },
+        {
+          "tender_spec": "潔具 - 洗面盆（American Standard）",
+          "brands": [
+            "American Standard"
+          ],
+          "model": "—",
+          "bq": "—",
+          "source": "校舍修葺工程材料統計匯總表_v2.xlsx"
+        },
+        {
+          "tender_spec": "潔具 - 浴廁間隔系統（Formica抗倍特板連門）",
+          "brands": [
+            "Formica"
+          ],
+          "model": "—",
+          "bq": "—",
+          "source": "校舍修葺工程材料統計匯總表_v2.xlsx"
+        },
+        {
+          "tender_spec": "無障礙鏡箱",
+          "brands": [
+            "BOBRICK"
+          ],
+          "model": "—",
+          "bq": "B.7.19",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "茶水間用不鏽鋼星盆",
+          "brands": [
+            "冠珠"
+          ],
+          "model": "GC301",
+          "bq": "B.7.1",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "鍍光鉻面自動液體皂液器",
+          "brands": [
+            "艾克"
+          ],
+          "model": "AK1205",
+          "bq": "B.7.5",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "陶瓷洗手盤 CL-02",
+          "brands": [
+            "TOTO"
+          ],
+          "model": "—",
+          "bq": "I.2",
+          "source": "副本某學校-材料審批表-帶品牌2.xls"
+        },
+        {
+          "tender_spec": "電動乾手器",
+          "brands": [
+            "艾克"
+          ],
+          "model": "AK2630",
+          "bq": "B.7.6",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "風喉",
+          "brands": [
+            "Moonstar"
+          ],
+          "model": "—",
+          "bq": "C5.1",
+          "source": "某政府部門-材料審批表-20240806-01.xlsx"
+        },
+        {
+          "tender_spec": "座廁/小便器/水龍頭/洗手盆/不鏽鋼扶手/廁紙架/星盤",
+          "brands": [
+            "BRAVAT"
+          ],
+          "model": "—",
+          "bq": "B9",
+          "source": "某政府項目2020材料審批"
+        },
+        {
+          "tender_spec": "感應水龍頭",
+          "brands": [
+            "VITRA"
+          ],
+          "model": "—",
+          "bq": "B9.7",
+          "source": "某政府項目2020材料審批"
+        },
+        {
+          "tender_spec": "感應皂液器",
+          "brands": [
+            "SAVAVO"
+          ],
+          "model": "—",
+          "bq": "B9.15",
+          "source": "某政府項目2020材料審批"
+        },
+        {
+          "tender_spec": "潔具/衛生設備供應 (某院校2023 澳門)",
+          "brands": [
+            "Auto Source"
+          ],
+          "model": "",
+          "bq": "",
+          "source": "某院校2023住宿樓(某承建商)"
+        },
+        {
+          "tender_spec": "掛牆式電熱水爐",
+          "brands": [
+            "berlin或德國寶"
+          ],
+          "model": "詳見附件",
+          "bq": "11.x",
+          "source": "某街市維修及更改工程(某承建商)-材料跟蹤表總表/材料審批表"
+        },
+        {
+          "tender_spec": "乾手機",
+          "brands": [
+            "toto"
+          ],
+          "model": "詳見附件",
+          "bq": "11.6",
+          "source": "某街市維修及更改工程(某承建商)-材料跟蹤表總表/材料審批表"
+        },
+        {
+          "tender_spec": "成人座廁 CL-05",
+          "brands": [
+            "SOKOWELL"
+          ],
+          "model": "",
+          "bq": "I.6",
+          "source": "某學校分校2025"
+        },
+        {
+          "tender_spec": "不銹鋼尿池 CL-11",
+          "brands": [
+            "定制(custom)"
+          ],
+          "model": "",
+          "bq": "I.11",
+          "source": "某學校分校2025"
+        },
+        {
+          "tender_spec": "男/女洗手池 ST-02",
+          "brands": [
+            "富美家",
+            "Formica"
+          ],
+          "model": "",
+          "bq": "H.3-4",
+          "source": "某學校分校2025"
+        },
+        {
+          "tender_spec": "白色扶手/可動扶手 (grab bar)",
+          "brands": [
+            "PBS Grab Bar"
+          ],
+          "model": "",
+          "bq": "C6.1.16,C6.1.18",
+          "source": "某市政公廁項目(2020)"
+        },
+        {
+          "tender_spec": "電子皂液盅 (soap dispenser)",
+          "brands": [
+            "PBS"
+          ],
+          "model": "SD0106T",
+          "bq": "C6.1.10",
+          "source": "某市政公廁項目(2020)"
+        },
+        {
+          "tender_spec": "乾手機 (hand dryer)",
+          "brands": [
+            "PBS",
+            "TOTO"
+          ],
+          "model": "",
+          "bq": "C6.1.19",
+          "source": "某市政公廁項目(2020)"
+        },
+        {
+          "tender_spec": "壁掛型洗手盤+P型隔氣",
+          "brands": [
+            "TOTO",
+            "Viyya"
+          ],
+          "model": "",
+          "bq": "C6.1.9",
+          "source": "某市政公廁項目(2020)"
+        },
+        {
+          "tender_spec": "明裝式閉門器 (door closer)",
+          "brands": [],
+          "model": "HOME DR-28DEBC",
+          "bq": "C3.1.1-C3.1.3",
+          "source": "某市政公廁項目(2020)"
+        },
+        {
+          "tender_spec": "感應式幹手機 (sensor hand dryer)",
+          "brands": [
+            "Panasonic"
+          ],
+          "model": "FJ-T09B3",
+          "bq": "EL",
+          "source": "某社會設施優化工程(某局2021-44,某承建商)"
+        }
+      ]
+    },
+    "HVAC": {
+      "label": "空調/通風",
+      "count": 32,
+      "items": [
+        {
+          "tender_spec": "U型木紋鋁條格柵天花系統",
+          "brands": [
+            "至高"
+          ],
+          "model": "—",
+          "bq": "B5.7",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "VRF 多聯式空調機組",
+          "brands": [
+            "HITACHI"
+          ],
+          "model": "—",
+          "bq": "E.1，E8",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "分體式空調機",
+          "brands": [
+            "HITACHI"
+          ],
+          "model": "—",
+          "bq": "E.2",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "回風門鉸式格柵連過濾網",
+          "brands": [
+            "Hong Shi"
+          ],
+          "model": "—",
+          "bq": "E.6.2.17~E.6.2.18",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "大金VRV系統室內",
+          "brands": [
+            "大金"
+          ],
+          "model": "—",
+          "bq": "C.l.l",
+          "source": "某政府部門-材料審批表-20240806-01.xlsx"
+        },
+        {
+          "tender_spec": "對流風格柵",
+          "brands": [
+            "Hong Shi"
+          ],
+          "model": "—",
+          "bq": "E.6.2.8~E.6.2.11",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "戶外梳茜不鏽鋼蓋",
+          "brands": [
+            "SUS304"
+          ],
+          "model": "詳見附件",
+          "bq": "D1.3.6",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "抽氣扇",
+          "brands": [
+            "KDK"
+          ],
+          "model": "由業主選定",
+          "bq": "—",
+          "source": "某學校_材料匯總表_20260609(1).xlsx"
+        },
+        {
+          "tender_spec": "抽氣扇（金羚APC20-3-C(B8H)）",
+          "brands": [
+            "金羚"
+          ],
+          "model": "APC20-3-C",
+          "bq": "—",
+          "source": "校舍修葺工程材料統計匯總表_v2.xlsx"
+        },
+        {
+          "tender_spec": "抽氣扇（金羚BPT15-44-1(AL)，600x600mm）",
+          "brands": [
+            "金羚"
+          ],
+          "model": "BPT15-44-1",
+          "bq": "—",
+          "source": "校舍修葺工程材料統計匯總表_v2.xlsx"
+        },
+        {
+          "tender_spec": "排風挌柵連調風器",
+          "brands": [
+            "Hong Shi"
+          ],
+          "model": "—",
+          "bq": "E.6.2.7",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "排風風機",
+          "brands": [
+            "Systemair"
+          ],
+          "model": "—",
+          "bq": "E.5.1",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "掛牆風扇（美的FWA23UR）",
+          "brands": [
+            "美的"
+          ],
+          "model": "FWA23UR",
+          "bq": "—",
+          "source": "校舍修葺工程材料統計匯總表_v2.xlsx"
+        },
+        {
+          "tender_spec": "新風格柵連調風器",
+          "brands": [
+            "Hong Shi"
+          ],
+          "model": "—",
+          "bq": "E.6.2.1~E.6.2.6",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "梳茜",
+          "brands": [
+            "ShunCheong"
+          ],
+          "model": "詳見附件",
+          "bq": "D1.3",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "消聲器",
+          "brands": [
+            "LBJ"
+          ],
+          "model": "—",
+          "bq": "E.6.7",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "熱浸鍍鋅疏茜",
+          "brands": [
+            "LIK HUNG"
+          ],
+          "model": "—",
+          "bq": "E3，E.7",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "空調-3匹（日立3匹淨冷口琴式分體機）",
+          "brands": [
+            "日立"
+          ],
+          "model": "—",
+          "bq": "—",
+          "source": "校舍修葺工程材料統計匯總表_v2.xlsx"
+        },
+        {
+          "tender_spec": "管道保温",
+          "brands": [
+            "Armaflex"
+          ],
+          "model": "—",
+          "bq": "E.3.1~E.4.1",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "線型格柵",
+          "brands": [
+            "Hong Shi"
+          ],
+          "model": "—",
+          "bq": "E.6.2.12~E.6.2.16",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "銅喉保溫",
+          "brands": [
+            "Armaflex class 0"
+          ],
+          "model": "—",
+          "bq": "C.3.1",
+          "source": "某政府部門-材料審批表-20240806-01.xlsx"
+        },
+        {
+          "tender_spec": "鍍鋅風管",
+          "brands": [
+            "燁輝"
+          ],
+          "model": "—",
+          "bq": "E.6.1",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "防水百葉連不鏽鋼防蟲網",
+          "brands": [
+            "Hong Shi"
+          ],
+          "model": "—",
+          "bq": "E.6.2.19~E.6.2.23",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "風喉保溫",
+          "brands": [
+            "Owens corning"
+          ],
+          "model": "—",
+          "bq": "C5.1",
+          "source": "某政府部門-材料審批表-20240806-01.xlsx"
+        },
+        {
+          "tender_spec": "風管保温",
+          "brands": [
+            "Owens Corning"
+          ],
+          "model": "—",
+          "bq": "E.6.1",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "風管止回風閘",
+          "brands": [
+            "Hong Shi"
+          ],
+          "model": "—",
+          "bq": "E.6.4.1~E.6.4.2",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "風管調風閘",
+          "brands": [
+            "Hong Shi"
+          ],
+          "model": "—",
+          "bq": "E.6.3.1~E.6.3.6",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "緊急發電機組 (某院校2023)",
+          "brands": [
+            "FG Wilson"
+          ],
+          "model": "",
+          "bq": "",
+          "source": "某院校2023住宿樓(某承建商)"
+        },
+        {
+          "tender_spec": "窗口式抽氣扇",
+          "brands": [
+            "KDK"
+          ],
+          "model": "詳見附件",
+          "bq": "11.3",
+          "source": "某街市維修及更改工程(某承建商)-材料跟蹤表總表/材料審批表"
+        },
+        {
+          "tender_spec": "吊扇(36吋)",
+          "brands": [
+            "smc"
+          ],
+          "model": "詳見附件",
+          "bq": "11.5",
+          "source": "某街市維修及更改工程(某承建商)-材料跟蹤表總表/材料審批表"
+        },
+        {
+          "tender_spec": "天花式排氣扇 (ceiling exhaust fan)",
+          "brands": [
+            "Panasonic"
+          ],
+          "model": "FV-24CMD",
+          "bq": "EL",
+          "source": "某社會設施優化工程(某局2021-44,某承建商)"
+        },
+        {
+          "tender_spec": "防風雨型窗口式抽氣扇 (weatherproof window exhaust fan)",
+          "brands": [
+            "Panasonic"
+          ],
+          "model": "FV-20WH307",
+          "bq": "EL",
+          "source": "某社會設施優化工程(某局2021-44,某承建商)"
+        }
+      ]
+    },
+    "FIRE": {
+      "label": "消防",
+      "count": 19,
+      "items": [
+        {
+          "tender_spec": "4.5KG乾粉滅火器",
+          "brands": [
+            "Killfire"
+          ],
+          "model": "KP-10S",
+          "bq": "D.3.1",
+          "source": "某政府部門-材料審批表-20240806-01.xlsx"
+        },
+        {
+          "tender_spec": "4.5kg乾粉滅火筒",
+          "brands": [
+            "KILLFIRE"
+          ],
+          "model": "詳見附件",
+          "bq": "F24",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "5kgCO2滅火筒",
+          "brands": [
+            "KILLFIRE"
+          ],
+          "model": "詳見附件",
+          "bq": "F25",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "68°C 花灑頭",
+          "brands": [
+            "Viking"
+          ],
+          "model": "VK462",
+          "bq": "D.1.4、D.1.7、D.1.9",
+          "source": "某政府部門-材料審批表-20240806-01.xlsx"
+        },
+        {
+          "tender_spec": "68度假天花下花灑頭（隱蔽式）",
+          "brands": [
+            "天廣"
+          ],
+          "model": "詳見附件",
+          "bq": "F3",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "68度花灑頭",
+          "brands": [
+            "天廣"
+          ],
+          "model": "詳見附件",
+          "bq": "F2, F4",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "消防拉轆連配件",
+          "brands": [
+            "華雄"
+          ],
+          "model": "詳見附件",
+          "bq": "F7",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "消防拎手",
+          "brands": [
+            "GST"
+          ],
+          "model": "詳見附件",
+          "bq": "F14",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "消防訊號線",
+          "brands": [
+            "寶馬"
+          ],
+          "model": "詳見附件",
+          "bq": "F11-F14 & F20-F22",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "消防警鐘",
+          "brands": [
+            "恆業世紀"
+          ],
+          "model": "詳見附件",
+          "bq": "F14 , F22",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "消防閃燈（天花式/壁掛式）",
+          "brands": [
+            "A&B"
+          ],
+          "model": "詳見附件",
+          "bq": "F20 ,F21",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "火災自動探測器1回路控制箱",
+          "brands": [
+            "GST"
+          ],
+          "model": "詳見附件",
+          "bq": "F10",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "煙感探測器連底座",
+          "brands": [
+            "EDWARDS"
+          ],
+          "model": "SIGA-PDI",
+          "bq": "D.2.1、D.2.2、D.2.5、D.2.6、D.2.7",
+          "source": "某政府部門-材料審批表-20240806-01.xlsx"
+        },
+        {
+          "tender_spec": "煙霧感應器",
+          "brands": [
+            "GST"
+          ],
+          "model": "詳見附件",
+          "bq": "F11",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "熱度感應器",
+          "brands": [
+            "GST"
+          ],
+          "model": "詳見附件",
+          "bq": "F12",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "緊急逃生玻璃盒 Break Glass",
+          "brands": [
+            "Sprintlocks"
+          ],
+          "model": "詳見附件",
+          "bq": "D2.2.2",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "風管式煙霧感應器",
+          "brands": [
+            "System Sensor"
+          ],
+          "model": "—",
+          "bq": "E.7.1",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "風管防火閘",
+          "brands": [
+            "PREFCO"
+          ],
+          "model": "—",
+          "bq": "E.6.5",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "風管防火防煙閘",
+          "brands": [
+            "恆業"
+          ],
+          "model": "—",
+          "bq": "E.6.6",
+          "source": "09-09材料審批總表.xlsx"
+        }
+      ]
+    },
+    "FINISHING": {
+      "label": "牆身/飾面/防水/泥水",
+      "count": 65,
+      "items": [
+        {
+          "tender_spec": "乳液混合水泥砂",
+          "brands": [
+            "Optimix Procrete"
+          ],
+          "model": "29Y46",
+          "bq": "B4.1",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "填縫劑",
+          "brands": [
+            "奧迪美Optimix"
+          ],
+          "model": "TG410ES",
+          "bq": "B4.2",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "接著劑 W-03",
+          "brands": [
+            "Sika"
+          ],
+          "model": "—",
+          "bq": "C2",
+          "source": "副本某學校-材料審批表-帶品牌2.xls"
+        },
+        {
+          "tender_spec": "水泥",
+          "brands": [
+            "金鋰牌"
+          ],
+          "model": "—",
+          "bq": "B2.1.1",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "水泥基防水膜",
+          "brands": [
+            "Sikatop-107 Seal HK"
+          ],
+          "model": "—",
+          "bq": "B3.20",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "混凝土磚",
+          "brands": [
+            "堅正達宏"
+          ],
+          "model": "—",
+          "bq": "B2.1.1",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "地台 - 磁磚（NIRO GRANITE耐磨地磚，防滑R10或以上）",
+          "brands": [
+            "NIRO GRANITE"
+          ],
+          "model": "—",
+          "bq": "—",
+          "source": "校舍修葺工程材料統計匯總表_v2.xlsx"
+        },
+        {
+          "tender_spec": "環氧填縫劑溝縫",
+          "brands": [
+            "奧迪美Optimix"
+          ],
+          "model": "ST-ETG",
+          "bq": "B3.5、B3.6、B3.7、B4.15",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "環氧樹酯地台油漆",
+          "brands": [
+            "Mapei"
+          ],
+          "model": "Primer SN+Mapefloor I 302 SL",
+          "bq": "B3.13",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "瓷磚膠鋪貼",
+          "brands": [
+            "奧迪美Optimix"
+          ],
+          "model": "ST-TA(US)",
+          "bq": "B3.5、B3.6、B3.7、B4.15",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "瓷磚黏結劑",
+          "brands": [
+            "奧迪美Optimix"
+          ],
+          "model": "TA328S",
+          "bq": "B4.2",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "自流平",
+          "brands": [
+            "Thomsit"
+          ],
+          "model": "R777",
+          "bq": "B3.3",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "英泥防水漆加劑 W-02",
+          "brands": [
+            "Sika"
+          ],
+          "model": "—",
+          "bq": "C2",
+          "source": "副本某學校-材料審批表-帶品牌2.xls"
+        },
+        {
+          "tender_spec": "防水塗層 - 室內（Sika107防水涂料，厚度≥2mm）",
+          "brands": [
+            "Sika"
+          ],
+          "model": "Sika107",
+          "bq": "—",
+          "source": "校舍修葺工程材料統計匯總表_v2.xlsx"
+        },
+        {
+          "tender_spec": "防水膜 W-01",
+          "brands": [
+            "Sika"
+          ],
+          "model": "—",
+          "bq": "C2",
+          "source": "副本某學校-材料審批表-帶品牌2.xls"
+        },
+        {
+          "tender_spec": "防潮膩子層",
+          "brands": [
+            "奧迪美Optimix"
+          ],
+          "model": "SC216",
+          "bq": "B4.4、B4.5、B5.1、B5.2",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "預拌水泥砂漿",
+          "brands": [
+            "奧迪美Optimix"
+          ],
+          "model": "BP126",
+          "bq": "B3.1、B3.2、B4.1",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "天花 - 油漆（白色無味無甲醛抗霉環保乳膠漆，1底2面）",
+          "brands": [
+            "立邦"
+          ],
+          "model": "—",
+          "bq": "—",
+          "source": "校舍修葺工程材料統計匯總表_v2.xlsx"
+        },
+        {
+          "tender_spec": "墻身白色油漆",
+          "brands": [
+            "立邦"
+          ],
+          "model": "防水防黴抗菌超低VOC油漆",
+          "bq": "B4.4",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "牆身天花 - 油漆",
+          "brands": [
+            "多樂士",
+            "立邦"
+          ],
+          "model": "由業主選定",
+          "bq": "—",
+          "source": "某學校_材料匯總表_20260609(1).xlsx"
+        },
+        {
+          "tender_spec": "深灰色油漆",
+          "brands": [
+            "立邦"
+          ],
+          "model": "防水防黴抗菌超低VOC油漆",
+          "bq": "B4.5、B5.1",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "防火漆",
+          "brands": [
+            "LGM"
+          ],
+          "model": "詳見附件",
+          "bq": "F28",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "光幕藝術天花系統",
+          "brands": [
+            "宏亮"
+          ],
+          "model": "—",
+          "bq": "B5.10",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "天花 - 鋁合金天花板（600x600鋁扣板天花，厚度≥0.8mm）",
+          "brands": [
+            "歐典龍"
+          ],
+          "model": "—",
+          "bq": "—",
+          "source": "校舍修葺工程材料統計匯總表_v2.xlsx"
+        },
+        {
+          "tender_spec": "天花 - 鋁合金天花板（鋁扣板天花300mm闊，厚度≥0.8mm，白色）",
+          "brands": [
+            "歐典龍"
+          ],
+          "model": "—",
+          "bq": "—",
+          "source": "校舍修葺工程材料統計匯總表_v2.xlsx"
+        },
+        {
+          "tender_spec": "雙層埃特板假天花吊頂系統",
+          "brands": [
+            "龍牌LF93石膏板"
+          ],
+          "model": "—",
+          "bq": "B5.3",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "雙層防火埃特板假天花吊頂系統",
+          "brands": [
+            "龍牌LF93石膏板"
+          ],
+          "model": "—",
+          "bq": "B5.4",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "沖孔鋁扣板天花配吸音棉",
+          "brands": [
+            "歐陸"
+          ],
+          "model": "—",
+          "bq": "B5.5",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "冰火板",
+          "brands": [
+            "綠景"
+          ],
+          "model": "—",
+          "bq": "B4.11",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "木紋冰火板",
+          "brands": [
+            "綠景"
+          ],
+          "model": "—",
+          "bq": "B4.8",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "木紋冰火板飾面天花",
+          "brands": [
+            "綠景"
+          ],
+          "model": "—",
+          "bq": "B5.11",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "條形木紋冰火板",
+          "brands": [
+            "綠景"
+          ],
+          "model": "—",
+          "bq": "B4.9",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "石紋冰火板",
+          "brands": [
+            "綠景"
+          ],
+          "model": "—",
+          "bq": "B4.12",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "寬頻吸聲板",
+          "brands": [
+            "聲博士"
+          ],
+          "model": "—",
+          "bq": "B4.6",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "地毯",
+          "brands": [
+            "FLOTEX"
+          ],
+          "model": "—",
+          "bq": "B3.2.1",
+          "source": "某政府項目2020材料審批"
+        },
+        {
+          "tender_spec": "防潮石膏磚",
+          "brands": [
+            "GreenTech"
+          ],
+          "model": "—",
+          "bq": "B2.2",
+          "source": "某政府項目2020材料審批"
+        },
+        {
+          "tender_spec": "防滑石膏磚",
+          "brands": [
+            "greentech"
+          ],
+          "model": "—",
+          "bq": "B2.2",
+          "source": "某政府項目2020材料審批"
+        },
+        {
+          "tender_spec": "紙面石膏板天花",
+          "brands": [
+            "KNAUF"
+          ],
+          "model": "—",
+          "bq": "B5.1.1",
+          "source": "某政府項目2020材料審批"
+        },
+        {
+          "tender_spec": "活動升高電腦地板系統",
+          "brands": [
+            "netfloor"
+          ],
+          "model": "—",
+          "bq": "B3.1.3",
+          "source": "某政府項目2020材料審批"
+        },
+        {
+          "tender_spec": "升高地台系統",
+          "brands": [
+            "LINFLOOR"
+          ],
+          "model": "—",
+          "bq": "B3.1.3",
+          "source": "某政府項目2020材料審批"
+        },
+        {
+          "tender_spec": "仿石/人造石",
+          "brands": [
+            "CORIAN",
+            "杜邦"
+          ],
+          "model": "—",
+          "bq": "B8.1",
+          "source": "某政府項目2020材料審批"
+        },
+        {
+          "tender_spec": "纖維牆紙",
+          "brands": [
+            "SANEGTSU"
+          ],
+          "model": "—",
+          "bq": "B4.2.2",
+          "source": "某政府項目2020材料審批"
+        },
+        {
+          "tender_spec": "牆紙",
+          "brands": [
+            "OMEXCO"
+          ],
+          "model": "—",
+          "bq": "B4.2.3",
+          "source": "某政府項目2020材料審批"
+        },
+        {
+          "tender_spec": "水性噴漆",
+          "brands": [
+            "SKK"
+          ],
+          "model": "—",
+          "bq": "B10.1.4",
+          "source": "某政府項目2020材料審批"
+        },
+        {
+          "tender_spec": "玻璃(強化/夾膠/單向透視)",
+          "brands": [
+            "南玻CSG",
+            "CSG"
+          ],
+          "model": "—",
+          "bq": "B4.5/B7",
+          "source": "某政府項目2020材料審批"
+        },
+        {
+          "tender_spec": "鋁合金天花",
+          "brands": [
+            "天龍",
+            "志高"
+          ],
+          "model": "—",
+          "bq": "B5.2",
+          "source": "某政府項目2020材料審批"
+        },
+        {
+          "tender_spec": "隔音板",
+          "brands": [
+            "OBERLEX"
+          ],
+          "model": "—",
+          "bq": "B4.4.2",
+          "source": "某政府項目2020材料審批"
+        },
+        {
+          "tender_spec": "遮光卷簾",
+          "brands": [
+            "萬利 MANY",
+            "MANY"
+          ],
+          "model": "—",
+          "bq": "B14.2",
+          "source": "某政府項目2020材料審批"
+        },
+        {
+          "tender_spec": "灰色砂紋地膠/地膠地板",
+          "brands": [
+            "Gerflor",
+            "Gerfolr"
+          ],
+          "model": "托普蘭加強1035",
+          "bq": "B3.9",
+          "source": "某酒店項目"
+        },
+        {
+          "tender_spec": "水泥基防水膜/防水塗層",
+          "brands": [
+            "LAMBERT",
+            "LAMBERT MACPROOF WP"
+          ],
+          "model": "MACPROOF WP",
+          "bq": "B3.20",
+          "source": "某酒店項目"
+        },
+        {
+          "tender_spec": "牆身飾面磚/瓷磚",
+          "brands": [
+            "PORTINO"
+          ],
+          "model": "—",
+          "bq": "B4.2",
+          "source": "某酒店項目"
+        },
+        {
+          "tender_spec": "瓷磚膠/防水膜/防潮膩子",
+          "brands": [
+            "Scoretech"
+          ],
+          "model": "ST-TA(US)/ST-ETG/ST-SF",
+          "bq": "B3.5",
+          "source": "某酒店項目"
+        },
+        {
+          "tender_spec": "乳液混合水泥砂/水泥添加劑",
+          "brands": [
+            "Synthomer"
+          ],
+          "model": "29Y46",
+          "bq": "B4.1",
+          "source": "某酒店項目"
+        },
+        {
+          "tender_spec": "PVC/膠地板 (某院校2023 德國皇冠)",
+          "brands": [
+            "Crown"
+          ],
+          "model": "",
+          "bq": "",
+          "source": "某院校2023住宿樓(某承建商)"
+        },
+        {
+          "tender_spec": "防滑地磚 F-01（白色防滑地磚）",
+          "brands": [
+            "駿華"
+          ],
+          "model": "",
+          "bq": "D1.2",
+          "source": "某學校分校2025"
+        },
+        {
+          "tender_spec": "防滑地磚 F-01（爵士白防滑地磚）",
+          "brands": [
+            "NIRO GRANTE"
+          ],
+          "model": "",
+          "bq": "D.1.3",
+          "source": "某學校分校2025"
+        },
+        {
+          "tender_spec": "牆身磚 BR-01（白色牆身磚）",
+          "brands": [
+            "駿華"
+          ],
+          "model": "",
+          "bq": "E.3.1",
+          "source": "某學校分校2025"
+        },
+        {
+          "tender_spec": "牆身磚 BR-02（爵士白牆身磚）",
+          "brands": [
+            "NIRO GRANTE"
+          ],
+          "model": "",
+          "bq": "E.3.2",
+          "source": "某學校分校2025"
+        },
+        {
+          "tender_spec": "牆身磚 BR-03（仿石紋牆身磚）",
+          "brands": [
+            "NIRO GRANTE"
+          ],
+          "model": "",
+          "bq": "E.3.3",
+          "source": "某學校分校2025"
+        },
+        {
+          "tender_spec": "防潮淨味五合一白色乳膠漆 PL-01",
+          "brands": [
+            "Nippon",
+            "立邦"
+          ],
+          "model": "",
+          "bq": "F.1",
+          "source": "某學校分校2025"
+        },
+        {
+          "tender_spec": "灰色人造門檻石 ST-03",
+          "brands": [
+            "實版(sample board)"
+          ],
+          "model": "",
+          "bq": "D.1.4",
+          "source": "某學校分校2025"
+        },
+        {
+          "tender_spec": "地台磚/牆身磚 (防滑瓷磚)",
+          "brands": [
+            "BODE"
+          ],
+          "model": "",
+          "bq": "C2.2.1,C2.4.1",
+          "source": "某市政公廁項目(2020)"
+        },
+        {
+          "tender_spec": "鋁質收邊/級咀 (鋁質飾條)",
+          "brands": [
+            "ALBA"
+          ],
+          "model": "",
+          "bq": "C2.2.2,C2.4.3",
+          "source": "某市政公廁項目(2020)"
+        },
+        {
+          "tender_spec": "瓷磚膠 (tile adhesive)",
+          "brands": [
+            "德高",
+            "Davco"
+          ],
+          "model": "",
+          "bq": "C2.2,C2.4",
+          "source": "某市政公廁項目(2020)"
+        },
+        {
+          "tender_spec": "填縫劑/填缝料 (grout)",
+          "brands": [
+            "德高",
+            "Davco"
+          ],
+          "model": "",
+          "bq": "C2.2,C2.4",
+          "source": "某市政公廁項目(2020)"
+        }
+      ]
+    },
+    "DOORS_HARDWARE": {
+      "label": "門/木作/傢俬/五金",
+      "count": 37,
+      "items": [
+        {
+          "tender_spec": "SPRINTPB29 開門按纽",
+          "brands": [
+            "SPRINT"
+          ],
+          "model": "—",
+          "bq": "6.4.2",
+          "source": "MAT_AR-00X-XX材料報批格式.xls"
+        },
+        {
+          "tender_spec": "坑培特板衛生間隔斷門700*1600",
+          "brands": [
+            "富美家"
+          ],
+          "model": "—",
+          "bq": "G.9",
+          "source": "副本某學校-材料審批表-帶品牌2.xls"
+        },
+        {
+          "tender_spec": "坑培特板衛生間隔斷門700*1900",
+          "brands": [
+            "富美家"
+          ],
+          "model": "—",
+          "bq": "G.8",
+          "source": "副本某學校-材料審批表-帶品牌2.xls"
+        },
+        {
+          "tender_spec": "坑培特板衛生間隔斷門900*1900",
+          "brands": [
+            "富美家"
+          ],
+          "model": "—",
+          "bq": "G.7",
+          "source": "副本某學校-材料審批表-帶品牌2.xls"
+        },
+        {
+          "tender_spec": "座地式厠格隔斷聯門",
+          "brands": [
+            "Fromica"
+          ],
+          "model": "—",
+          "bq": "B.7.17",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "儲物櫃（各類）",
+          "brands": [
+            "興友騰",
+            "迪歐"
+          ],
+          "model": "由業主選定",
+          "bq": "—",
+          "source": "某學校_材料匯總表_20260609(1).xlsx"
+        },
+        {
+          "tender_spec": "桌椅",
+          "brands": [
+            "迪歐"
+          ],
+          "model": "由業主選定",
+          "bq": "—",
+          "source": "某學校_材料匯總表_20260609(1).xlsx"
+        },
+        {
+          "tender_spec": "不鏽鋼L型扶手桿",
+          "brands": [
+            "藍品盾"
+          ],
+          "model": "—",
+          "bq": "B.7.12",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "不鏽鋼Ⅰ字型扶手桿",
+          "brands": [
+            "TOTO"
+          ],
+          "model": "—",
+          "bq": "B.7.11",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "升高400-600mm金屬升高地",
+          "brands": [
+            "匯麗"
+          ],
+          "model": "—",
+          "bq": "B3.15",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "安裝活動式扶手桿",
+          "brands": [
+            "藍品盾"
+          ],
+          "model": "—",
+          "bq": "B.7.13",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "升高地台",
+          "brands": [
+            "匯麗"
+          ],
+          "model": "OA-600",
+          "bq": "B3.14",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "升高地台飾面",
+          "brands": [
+            "美吉"
+          ],
+          "model": "蕾伽系列的自沉式地膠",
+          "bq": "B3.12",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "木紋地膠",
+          "brands": [
+            "美喆"
+          ],
+          "model": "—",
+          "bq": "B3.11",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "開門制",
+          "brands": [
+            "Sprintlocks"
+          ],
+          "model": "詳見附件",
+          "bq": "D2.2.1",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "電趟門",
+          "brands": [
+            "Sprintlocks"
+          ],
+          "model": "詳見附件",
+          "bq": "D2.2.4",
+          "source": "09-09材料審批總表.xlsx"
+        },
+        {
+          "tender_spec": "門拉手/門吸/不鏽鋼防臭地漏/皂液盅",
+          "brands": [
+            "雅潔"
+          ],
+          "model": "—",
+          "bq": "B6/B9.17",
+          "source": "某政府項目2020材料審批"
+        },
+        {
+          "tender_spec": "門鎖/五金 (某院校2023)",
+          "brands": [
+            "Sprint"
+          ],
+          "model": "",
+          "bq": "",
+          "source": "某院校2023住宿樓(某承建商)"
+        },
+        {
+          "tender_spec": "不銹鋼紙巾盒 CL-03",
+          "brands": [
+            "SHUERDA"
+          ],
+          "model": "",
+          "bq": "I.3",
+          "source": "某學校分校2025"
+        },
+        {
+          "tender_spec": "不銹鋼毛巾架 CL-07",
+          "brands": [
+            "箭牌",
+            "ARROW"
+          ],
+          "model": "",
+          "bq": "I.8",
+          "source": "某學校分校2025"
+        },
+        {
+          "tender_spec": "實木門及門框飾面 D4/D5/D6",
+          "brands": [
+            "富美家",
+            "Formica"
+          ],
+          "model": "",
+          "bq": "G.4-6",
+          "source": "某學校分校2025"
+        },
+        {
+          "tender_spec": "鏡櫃 CL-04",
+          "brands": [
+            "TOTO"
+          ],
+          "model": "",
+          "bq": "I.4",
+          "source": "某學校分校2025"
+        },
+        {
+          "tender_spec": "自動趟門系統 (automatic sliding door)",
+          "brands": [
+            "ALCOM"
+          ],
+          "model": "ALS.2150",
+          "bq": "C3.2.1",
+          "source": "某市政公廁項目(2020)"
+        },
+        {
+          "tender_spec": "不鏽鋼插芯輔助鎖",
+          "brands": [
+            "BiLock"
+          ],
+          "model": "180.DD",
+          "bq": "C3.1-2,C3.3",
+          "source": "某市政公廁項目(2020)"
+        },
+        {
+          "tender_spec": "不鏽鋼插芯趟門鎖",
+          "brands": [
+            "BiLock"
+          ],
+          "model": "190.DD",
+          "bq": "C3.2.1",
+          "source": "某市政公廁項目(2020)"
+        },
+        {
+          "tender_spec": "不鏽鋼插芯門鎖",
+          "brands": [
+            "BiLock"
+          ],
+          "model": "6072B-8902RC",
+          "bq": "C3.1.3",
+          "source": "某市政公廁項目(2020)"
+        },
+        {
+          "tender_spec": "不鏽鋼門鉸 (door hinge)",
+          "brands": [
+            "CENTRIC"
+          ],
+          "model": "HR.108.543",
+          "bq": "C3.1-3,C3.3",
+          "source": "某市政公廁項目(2020)"
+        },
+        {
+          "tender_spec": "對裝不鏽鋼門拉手",
+          "brands": [
+            "CENTRIC"
+          ],
+          "model": "PH.115.6032.SSS",
+          "bq": "C3.2.1",
+          "source": "某市政公廁項目(2020)"
+        },
+        {
+          "tender_spec": "門拉手 (door pull handle)",
+          "brands": [
+            "CENTRIC"
+          ],
+          "model": "PH.21.023019.SSS",
+          "bq": "C3.1.1,C3.1.2",
+          "source": "某市政公廁項目(2020)"
+        },
+        {
+          "tender_spec": "不鏽鋼推手板",
+          "brands": [
+            "CENTRIC"
+          ],
+          "model": "PH.209.7530.SSS",
+          "bq": "C3.1-2",
+          "source": "某市政公廁項目(2020)"
+        },
+        {
+          "tender_spec": "座地式門頂附上閉止器",
+          "brands": [
+            "CENTRIC"
+          ],
+          "model": "IN.553.SSS",
+          "bq": "C3.1-3",
+          "source": "某市政公廁項目(2020)"
+        },
+        {
+          "tender_spec": "靠牆門頂 (door stop)",
+          "brands": [
+            "CENTRIC"
+          ],
+          "model": "IN.532.SSS",
+          "bq": "C3.3",
+          "source": "某市政公廁項目(2020)"
+        },
+        {
+          "tender_spec": "平面拉手 (flush pull handle)",
+          "brands": [
+            "WKW"
+          ],
+          "model": "LE-693 SSS",
+          "bq": "C3.3",
+          "source": "某市政公廁項目(2020)"
+        },
+        {
+          "tender_spec": "鋁蜂窩系統鋁合金門 (aluminium honeycomb door)",
+          "brands": [
+            "FORMICA ALU"
+          ],
+          "model": "",
+          "bq": "C3.1.1-C3.1.3",
+          "source": "某市政公廁項目(2020)"
+        },
+        {
+          "tender_spec": "洗手間廁格隔板系統 (cubicle partition)",
+          "brands": [
+            "FORMICA PROTEV"
+          ],
+          "model": "",
+          "bq": "C6.2.2",
+          "source": "某市政公廁項目(2020)"
+        },
+        {
+          "tender_spec": "洗手盤人造石 (solid surfacing basin)",
+          "brands": [
+            "FORMICA SOILD SURFACING SURELL"
+          ],
+          "model": "",
+          "bq": "C6.2.1.1-2",
+          "source": "某市政公廁項目(2020)"
+        },
+        {
+          "tender_spec": "辦公室傢私 / 沙發 (furniture, 設計指定)",
+          "brands": [
+            "IKEA",
+            "宜家"
+          ],
+          "model": "LANDSKRONA 三人沙發",
+          "bq": "—",
+          "source": "某政府部門-新辦公大樓裝修工程"
+        }
+      ]
+    },
+    "OTHER": {
+      "label": "其他（景觀/傢俬/特殊）",
+      "count": 4,
+      "items": [
+        {
+          "tender_spec": "3樓VIP餐房露台地板",
+          "brands": [
+            "MexyTech"
+          ],
+          "model": "地板型號：OR02、顏色：深巧克力",
+          "bq": "A.9.1.1",
+          "source": "某政府部門-材料審批表-20240806-01.xlsx"
+        },
+        {
+          "tender_spec": "3樓設備平臺3.36地板",
+          "brands": [
+            "MexyTech"
+          ],
+          "model": "地板型號：OR02、顏色：深巧克力",
+          "bq": "A.9.1.2",
+          "source": "某政府部門-材料審批表-20240806-01.xlsx"
+        },
+        {
+          "tender_spec": "哺乳室（興友騰生態板/富美家人造石）",
+          "brands": [
+            "興友騰",
+            "富美家"
+          ],
+          "model": "興友騰生態板：鼠尾草綠、源木之戀；富美家人造石：SB04",
+          "bq": "A6.5、A12.5",
+          "source": "某政府部門-材料審批表-20240806-01.xlsx"
+        },
+        {
+          "tender_spec": "聚酯纖維箱",
+          "brands": [
+            "無"
+          ],
+          "model": "詳見附件",
+          "bq": "4.43",
+          "source": "某街市維修及更改工程(某承建商)-材料跟蹤表總表/材料審批表"
+        }
+      ]
+    }
+  },
+  "total_items": 414
+}
