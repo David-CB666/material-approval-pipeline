@@ -22,8 +22,8 @@ Thumbs.db
 *.docx
 *.dxf
 *.svg
-*.png
-*.jpg
+
+# Note: PNG/JPG in assets/ are documentation images (tracked)
 
 
 # Private data - available upon request
