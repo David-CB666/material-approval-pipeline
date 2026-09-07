@@ -24,7 +24,7 @@
 - 品牌推薦靠經驗，新人唔知用咩牌子
 - 雙承建商（總包+分判）、分批提交、回復跟蹤，文件管理混亂
 
-**macau-material-approval** 將整套流程自動化，從總表生成到BQ頁合併一氣呵成。
+**material-approval-pipeline** 將整套流程自動化，從總表生成到BQ頁合併一氣呵成。
 
 ## 核心特性
 
@@ -90,7 +90,7 @@ pre-flight 檢查 → 設值 → 出 PDF → append 產品資料 → sync 總表
 ## 文件結構
 
 ```
-macau-material-approval/
+material-approval-pipeline/
 ├── README.md                          # 本文件（GitHub 預覽頁）
 ├── DOCUMENTATION.md                   # 完整技能文檔（v2.9 / 516 行）
 ├── assets/
